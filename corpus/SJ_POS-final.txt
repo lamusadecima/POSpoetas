@@ -1,0 +1,1082 @@
+    Feliciano_NP00000 me_PP1CS00 adora_VMIP3S0 y_CC le_PP3CSD0 aborrezco_VMIP1S0;
+    Lisardo_NP00000 me_P01CS00 aborrece_VMIP3S0 y_CC yo_PP1CSN0 le_PP3CSD0 adoro_VMIP1S0;
+    por_SP quien_PR0CS00 no_RN me_PP1CS00 apetece_VMIP3S0 ingrato_AQ0MS00, lloro_NCMS000,
+    y_CC a_SP el_DA0MS0 que_PR0CN00 me_PP1CS00 llora_VMIP3S0 tierno_AQ0MS00 no_RN apetezco_VMIP1S0.
+    A_SP quien_PR0CS00 más_RG me_PP1CS00 desdora_VMIP3S0, el_DA0MS0 alma_NCFS000 ofrezco_VMIP1S0;
+    a_SP quien_PR0CS00 me_PP1CS00 ofrece_VMIP3S0 víctimas_NCFP000, desdoro_VMIP1S0;
+    desprecio_NCMS000 a_SP el_DA0MS0 que_PR0CN00 enriquece_VMIP3S0 mi_DP1CSS decoro_NCMS000,
+    y_CC a_SP el_DA0MS0 que_PR0CN00 le_PP3CSD0 hace_VMIP3S0 desprecios_NCMP000, enriquezco_VMIP1S0.
+    Si_CS con_SP mi_DP1CSS ofensa_NCFS000 a_SP el_DA0MS0 uno_PI0MS00 reconvengo_VMIP1S0,
+    me_PP1CS00 reconviene_VMIP3S0 el_DA0MS0 otro_PI0MS00 a_SP mí_PP1CSO0 ofendido_VMP00SM;
+    y_CC a_SP padecer_VMN0000 de-todos-modos_RG vengo_VMIP1S0,
+    pues_CS ambos_PI0MP00 atormentan_VMIP3P0 mi_DP1CSS sentido_NCMS000:
+    este_DD0MS0 con_SP pedir_VMN0000 lo_DA00S0 que_PR0CN00 no_RN tengo_VMIP1S0,
+    y_CC aquél_PD0MS00 con_SP no_RN tener_VMN0000 lo_DA00S0 que_PR0CN00 le_PP3CSD0 pido_VMIP1S0.
+    
+    Con_SP el_DA0MS0 dolor_NCMS000 de_SP la_DA0FS0 mortal_AQ0CS00 herida_NCFS000
+    de_SP un_DI0MS0 agravio_NCMS000 de_SP amor_NCMS000, me_PP1CS00 lamentaba_VMII3S0;
+    y_CC por_SP ver_VMN0000 si_CS la_DA0FS0 muerte_NCFS000 se_P00CN00 llegaba_VMII3S0,
+    procuraba_VMII3S0 que_CS fuese_VSSI3S0 más_RG crecida_VMP00SF.
+    Toda_PI0FS00 en_SP su_DP3CSN mal_NCMS000 el_DA0MS0 alma_NCFS000 divertida_VMP00SF,
+    pena_NCFS000 por_SP pena_NCFS000 su_DP3CSN dolor_NCMS000 sumaba_VMII3S0,
+    y_CC en_SP cada_DI0CS0 circunstancia_NCFS000 ponderaba_VMII3S0
+    que_CS sobraban_VMII3P0 mil_Z muertos_NCMP000 a_SP una_DI0FS0 vida_NCFS000.
+    Y_CC ciando_VMG0000 el_DA0MS0 golpe_NCMS000 de_SP uno_PI0MS00 y_CC otro_DI0MS0 tiro_NCMS000,
+    rendido_VMP00SM el_DA0MS0 corazón_NCMS000, daba_VMII3S0 penoso_AQ0MS00
+    señas_NCFP000 de_SP dar_VMN0000 el_DA0MS0 último_AO0MS00 suspiro_NCMS000,
+    no_RN sé_VMIP1S0 por_SP qué_DT0CN0 destino_NCMS000 prodigioso_AQ0MS00,
+    volví_VMIS1S0 en_SP mi_DP1CSS acuerdo_NCMS000 y_CC dije_VMIS1S0: ¡qué_PT00000 me_PP1CS00 admiro_VMIP1S0?
+    Quién_PT0CS00 en_SP amor_NCMS000 ha_VAIP3S0 sido_VSP00SM más_RG dichoso_AQ0MS00?
+    
+    Si_CS los_DA0MP0 riesgos_NCMP000 de_SP el_DA0MS0 mar_NCCS000 considerara_VMSI3S0
+    ninguno_PI0MS00 se_P00CN00 embarcara_VMSI3S0, si_CS antes_RG viera_VMSI3S0
+    bien_RG su_DP3CSN peligro_NCMS000, nadie_PI0CS00 se_P00CN00 atreviera_VMSI3S0,
+    ni_CC a_SP el_DA0MS0 bravo_AQ0MS00 toro_NCMS000 osado_VMP00SM provocara_VMSI3S0.
+    Si_CS de_SP el_DA0MS0 fogoso_AQ0MS00 bruto_AQ0MS00 ponderara_VMSI3S0
+    la_DA0FS0 furia_NCFS000 desbocada_VMP00SF en_SP la_DA0FS0 carrera_NCFS000,
+    el_DA0MS0 jinete_NCMS000 prudente_AQ0CS00, nunca_RG hubiera_VASI1S0,
+    quien_PR0CS00 con_SP discreta_AQ0FS00 mano_NCFS000 le_PP3CSD0 enfrenara_VMSI3S0.
+    Pero_CC si_CS hubiera_VMSI1S0 algo_PI0CS00 tan_RG osado_VMP00SM,
+    que_CS, no-obstante_CC el_DA0MS0 peligro_NCMS000, a_SP el_DA0MS0 mismo_AQ0MS00 Apolo_NP00000
+    quisiera_VMSI3S0 gobernar_VMN0000 con_SP atrevida_VMP00SF
+    mano_NCFS000, el_DA0MS0 rápido_AQ0MS00 carro_NCMS000 en_SP luz_NCFS000 bañado_VMP00SM
+    todo_PI0MS00 lo_PP3MSA0 hiciera_VMSI3S0, y_CC no_RN tomara_VMSI3S0 solo_RG
+    estado_VMP00SM, que_PR0CN00 ha_VMIP3S0 de_SP ser_VSN0000 toda_DI0FS0 la_DA0FS0 vida_NCFS000.
+    
+    Este_DD0MS0 que_CS ves_NCFP000 engaño_NCMS000 colorido_VMP00SM,
+    que_CS de_SP el_DA0MS0 arte_NCCS000 ostentando_VMG0000 los_DA0MP0 primores_NCMP000,
+    con_SP falsos_AQ0MP00 silogismos_NCMP000 de_SP colores_NCMP000,
+    es_VSIP3S0 cauteloso_AQ0MS00 engaño_NCMS000 de_SP el_DA0MS0 sentido_NCMS000;
+    este_PD0MS00, en_SP quien_PR0CS00 la_DA0FS0 lisonja_NCFS000 ha_VAIP3S0 pretendido_VMP00SM
+    excusar_VMN0000 de_SP los_DA0MP0 años_NCMP000 los_DA0MP0 horrores_NCMP000,
+    y_CC venciendo_VMG0000 de_SP el_DA0MS0 tiempo_NCMS000 los_DA0MP0 rigores_NCMP000
+    triunfar_VMN0000 de_SP la_DA0FS0 vejez_NCFS000 y_CC de_SP el_DA0MS0 olvido_NCMS000,
+    es_VSIP3S0 un_DI0MS0 vano_AQ0MS00 artificio_NCMS000 de_SP el_DA0MS0 cuidado_NCMS000,
+    es_VSIP3S0 una_DI0FS0 flor_NCFS000 a_SP el_DA0MS0 viento_NCMS000 delicada_AQ0FS00,
+    es_VSIP3S0 un_DI0MS0 resguardo_NCMS000 inútil_AQ0CS00 para_SP el_DA0MS0 hado_NCMS000,
+    es_VSIP3S0 una_DI0FS0 necia_AQ0FS00 diligencia_NCFS000 errada_VMP00SF,
+    es_VSIP3S0 un_DI0MS0 afán_NCMS000 caduco_AQ0MS00 y_CC, bien-mirado_RG
+    es_VSIP3S0 cadáver_NCMS000, es_VSIP3S0 polvo_NCMS000, es_VSIP3S0 sombra_NCFS000, es_VSIP3S0 nada_PI0CS00.
+    
+    El_DA0MS0 ausente_NCCS000, el_DA0MS0 celoso_AQ0MS00, se_P00CN00 provoca_VMIP3S0;
+    aquél_PD0MS00 con_SP sentimiento_NCMS000, este_DD0MS0 con_SP ira_NCFS000;
+    presume_VMIP3S0 éste_PD0MS00 la_DA0FS0 ofensa_NCFS000, que_PR0CN00 no_RN mira_VMM02S0;
+    y_CC siente_VMIP3S0 aquél_PD0MS00 la_DA0FS0 realidad_NCFS000, que_PR0CN00 toca_VMIP3S0.
+    Este_DD0MS0 templa_NCFS000, tal-vez_RG su_DP3CSN furia_NCFS000 loca_AQ0FS00,
+    cuando_CS el_DA0MS0 discurso_NCMS000 en_SP su_DP3CSN favor_NCMS000 delira_VMIP3S0;
+    pues_CS nada_PI0CS00 a_SP su_DP3CSN dolor_NCMS000 la_DA0FS0 fuerza_NCFS000 apoca_VMIP3S0
+    y_CC, sin_SP intermisión_NCFS000, aquél_PD0MS00 suspira_VMIP3S0.
+    Este_PD0MS00 aflige_VMIP3S0 dudoso_AQ0MS00 su_DP3CSN paciencia_NCFS000,
+    y_CC aquél_PD0MS00 padece_VMIP3S0 ciertos_DI0MP0 sus_DP3CPN desvelos_NCMP000;
+    éste_PD0MS00 a_SP el_DA0MS0 dolor_NCMS000 opone_VMIP3S0 resistencia_NCFS000;
+    aquél_PD0MS00 y_CC ella_PP3FS00, sufre_VMIP3S0 desconsuelos_NCMP000;
+    y_CC si_CS es_VSIP3S0 pena_NCFS000 de_SP daño_NCMS000, a_SP el_DA0MS0 fin_NCMS000, la_DA0FS0 ausencia_NCFS000
+    luego_RG es_VSIP3S0 mayor_AQ0CS00 tormento_NCMS000 que_PR0CN00 los_DA0MP0 celos_NCMP000.
+    
+    Silvio_NP00000, yo_PP1CSN0 te_PP2CS00 aborrezco_VMIP1S0, y_CC aun_RG condeno_VMIP1S0
+    el_DA0MS0 que_PR0CN00 estés_VMSP2S0, de_SP esta_DD0FS0 suerte_NCFS000, en_SP mi_DP1CSS sentido_NCMS000;
+    que_CS infama_VMIP3S0 el_DA0MS0 hierro_NCMS000 a_SP el_DA0MS0 escorpión_NCMS000 herido_VMP00SM,
+    y_CC a_SP quien_PR0CS00 la_DA0FS0 huella_NCFS000 mancha_VMIP3S0 inmundo_AQ0MS00 el_DA0MS0 cieno_NCMS000.
+    Eres_VSIP2S0 como_CS el_DA0MS0 mortífero_AQ0MS00 veneno_NCMS000,
+    que_PR0CN00 daña_VMIP3S0, a_SP quien_PR0CS00 lo_PP3MSA0 vierte_VMIP3S0 inadvertido_VMP00SM;
+    y_CC en_SP fin_NCMS000 eres_VSIP2S0 tan_RG malo_AQ0MS00 y_CC fementido_AQ0MS00,
+    que_PR0CN00 aun_RG para_SP aborrecido_VMP00SM no_RN eres_VSIP2S0 bueno_AQ0MS00.
+    Tu_DP2CSS aspecto_NCMS000 vil_AQ0CS00 a_SP mi_DP1CSS memoria_NCFS000 ofrezco_VMIP1S0,
+    aunque_CC con_SP susto_NCMS000 me_PP1CS00 lo_PP3MSA0 contradice_VMIP3S0,
+    por_SP dar_VMN0000 me_PP1CS00 yo_PP1CSN0 la_DA0FS0 pena_NCFS000 que_PR0CN00 merezco_VMIP1S0.
+    Pues_CS dando_VMG0000 considero_VMIP1S0, lo_DA00S0 que_PR0CN00 hice_VMIS1S0,
+    no_RN solo_AQ0MS00 a_SP ti_PP2CSO0, corrida_VMP00SF te_PP2CS00 aborrezco_VMIP1S0;
+    pero_CC a_SP mí_PP1CSO0, por_SP el_DA0MS0 tiempo_NCMS000 que_PR0CN00 te_PP2CS00 quise_VMIS1S0.
+    
+    Yo_PP1CSN0 no_RN dudo_VMIP1S0, Lisarda_NP00000, que_PR0CN00 te_PP2CS00 quiero_VMIP1S0,
+    aunque_CC sé_VMIP1S0 que_CS me_PP1CS00 tienes_VMIP2S0 agraviado_VMP00SM;
+    mas_CC estoy_VMIP1S0 tan_RG amante_NCCS000 y_CC tan_RG airado_VMP00SM,
+    que_CS afectos_NCMP000 que_PR0CN00 distingo_NCMS000 no_RN prefiero_VMIP1S0.
+    De_SP ver_VMN0000 que_CS odio_NCMS000 y_CC amor_NCMS000 te_PP2CS00 tengo_VMIP1S0, infiero_VMIP1S0
+    que_CS ninguno_PI0MS00 estar_VMN0000 puede_VMIP3S0 en_SP sumo_AQ0MS00 grado_NCMS000;
+    pues_CS no_RN le_PP3CSD0 puede_VMIP3S0 el_DA0MS0 odio_NCMS000 avergonzado_VMP00SM
+    sin_SP haber_VAN0000 lo_PP3MSA0 perdido_VMP00SM amor_NCMS000 primero_AO0MS00.
+    Y_CC si_CS piensas_VMIP2S0 que_CS el_DA0MS0 alma_NCFS000 que_PR0CN00 te_PP2CS00 quiso_VMIS3S0
+    ha_VMIP3S0 de_SP estar_VMN0000 siempre_RG a_SP tu_DP2CSS aflicción_NCFS000 ligada_VMP00SF,
+    de_SP tu_DP2CSS satisfacción_NCFS000 vana_AQ0FS00 te_PP2CS00 aviso_NCMS000.
+    Pues_CS si_CS el_DA0MS0 amor_NCMS000 a_SP el_DA0MS0 odio_NCMS000 ha_VAIP3S0 dado_VMP00SM entrada_NCFS000,
+    el_DA0MS0 que_PR0CN00 bajo_VMIP1S0 de_SP sumo_NCMS000 a_SP ser_VSN0000 remiso_AQ0MS00
+    de_SP lo_DA00S0 remiso_AQ0MS00 pasará_VMIF3S0 a_SP ser_VSN0000 nada_PI0CS00.
+    
+    Cuando_CS mi_DP1CSS error_NCMS000 y_CC tu_DP2CSS vileza_NCFS000 veo_VMIP1S0
+    contemplo_VMIP1S0, Silvio_NP00000 de_SP mi_DP1CSS amor_NCMS000 errado_VMP00SM,
+    cuán_RG grave_AQ0CS00 es_VSIP3S0 la_DA0FS0 malicia_NCFS000 de_SP el_DA0MS0 pecado_NCMS000,
+    cuán_RG violenta_AQ0FS00 la_DA0FS0 fuerza_NCFS000 de_SP un_DI0MS0 deseo_NCMS000.
+    A_SP mi_DP1CSS misma_AQ0FS00 memoria_NCFS000 apenas_RG creo_VMIP1S0,
+    que_CS pudiese_VMSI3S0 caber_VMN0000 en_SP mi_DP1CSS cuidado_NCMS000
+    la_DA0FS0 última_AO0FS00 línea_NCFS000 de_SP lo_DA00S0 despreciado_VMP00SM,
+    el_DA0MS0 término_NCMS000 final_AQ0CS00 de_SP un_DI0MS0 mal_AQ0MS00 empleo_NCMS000.
+    Yo_PP1CSN0 bien_RG quisiera_VMSI3S0, cuando_CS llego_VMIP1S0 a_SP ver_VMN0000 te_PP2CS00,
+    viendo_VMG0000 mi_DP1CSS infame_AQ0CS00 amor_NCMS000, poder_VMN0000 negar_VMN0000 lo_PP3MSA0;
+    mas_CC luego_RG la_DA0FS0 razón_NCFS000 justa_AQ0FS00 me_PP1CS00 advierte_VMIP3S0
+    que_CS solo_RG se_P00CN00 remedia_VMIP3S0 en_SP publicar_VMN0000 lo_PP3MSA0,
+    porque_CS de_SP el_DA0MS0 gran_AQ0CS00 delito_NCMS000 de_SP querer_VMN0000 te_PP2CS00
+    solo_AQ0MS00 es_VSIP3S0 bastante_RG para_SP confesar_VMN0000 lo_PP3MSA0.
+    
+    ¿Ves_VMIP2S0 me_PP1CS00, Alcino_NP00000, que_PR0CN00 atada_VMP00SF a_SP la_DA0FS0 cadena_NCFS000
+    de_SP amor_NCMS000, paso_NCMS000, en_SP sus_DP3CPN hierros_NCMP000 aherrojada_VMP00SF,
+    miseria_NCFS000, esclavitud_NCFS000, desesperada_VMP00SF,
+    de_SP libertad_NCFS000 y_CC de_SP consuelo_NCMS000 ajena_AQ0FS00?
+    ¿Ves_NCFP000 de_SP dolor_NCMS000 y_CC angustia_VMIP3S0 el_DA0MS0 alma_NCFS000 llena_AQ0FS00,
+    de_SP tan_RG fieros_AQ0MP00 tormentos_NCMP000 lastimada_VMP00SF,
+    y_CC entre_SP las_DA0FP0 vivas_AQ0FP00 llamas_NCFP000 abrasada_VMP00SF,
+    juzgarse_VMN0000 por_SP indigna_AQ0FS00 de_SP su_DP3CSN pena_NCFS000?
+    ¿Ves_VMIP2S0 me_PP1CS00 seguir_VMN0000 sin_SP alma_NCFS000 un_DI0MS0 desatino_NCMS000,
+    que_PR0CN00 yo_PP1CSN0 misma_AQ0FS00 condeno_VMIP1S0 por_SP extraño_AQ0MS00?
+    ¿Ves_VMIP2S0 me_PP1CS00 derramar_VMN0000 sangre_NCFS000 en_SP el_DA0MS0 camino_NCMS000,
+    siguiendo_VMG0000 los_DA0MP0 vestigios_NCMP000 de_SP un_DI0MS0 engaño_NCMS000?
+    Muy_RG admirado_VMP00SM estás_VMIP2S0. ¿Pues_CS, ves_NCFP000, Alcino_NP00000?
+    Más_RG merece_VMIP3S0 la_DA0FS0 causa_NCFS000 de_SP mi_DP1CSS daño_NCMS000.
+    
+    Intenta_VMIP3S0 de_SP Tarquino_NP00000 el_DA0MS0 artificio_NCMS000
+    a_SP tu_DP2CSS pecho_NCMS000, Lucrecia_NP00000, dar_VMN0000 batalla_NCFS000,
+    ya_RG amante_NCCS000 llora_VMIP3S0, ya_RG modesto_AQ0MS00 calla_NCFS000,
+    ya_RG ofrece_VMIP3S0 toda_DI0FS0 el_DA0MS0 alma_NCFS000 en_SP sacrificio_NCMS000.
+    Y_CC cuando_CS piensa_VMIP3S0 ya_RG que_CS más_RG propicio_AQ0MS00
+    tu_DP2CSS pecho_NCMS000 a_SP tanto_DI0MS0 imperio_NCMS000 se_P00CN00 avasalla_VMIP3S0,
+    el_DA0MS0 premio_NCMS000, como_CS Sísifo_NP00000, que_PR0CN00 halla_VMIP3S0
+    es_VSIP3S0 empezar_VMN0000 de_SP nuevo_AQ0MS00 el_DA0MS0 ejercicio_NCMS000.
+    Arde_VMIP3S0 furioso_AQ0MS00, y_CC la_DA0FS0 amorosa_AQ0FS00 tema_NCMS000
+    crece_VMIP3S0 en_SP la_DA0FS0 resistencia_NCFS000 de_SP tu_DP2CSS honra_NCFS000,
+    con_SP tanta_DI0FS0 privación_NCFS000 más_RG obstinada_VMP00SF.
+    ¡Oh_I Providencia-de-Deidad_NP00000 suprema_AQ0FS00!
+    ¡Tu_DP2CSS honestidad_NCFS000 motiva_VMIP3S0 tu_DP2CSS deshonra_NCFS000,
+    y_CC tu_DP2CSS deshonra_NCFS000 te_PP2CS00 eterniza_VMIP3S0 honrada_VMP00SF!
+    
+    ¿En_SP perseguir_VMN0000 me_PP1CS00, Mundo_NCMS000, qué_PT00000 interesas_VMIP2S0?
+    ¿En_SP qué_PT00000 te_PP2CS00 ofendo_VMIP1S0? Cuando_CS solo_RG intento_VMIP1S0
+    poner_VMN0000 bellezas_NCFP000 en_SP mi_DP1CSS entendimiento_NCMS000,
+    y_CC no_RN mi_DP1CSS entendimiento_NCMS000 en_SP las_DA0FP0 bellezas_NCFP000?
+    Yo_PP1CSN0 no_RN estimo_VMIP1S0 tesoros_NCMP000, ni_CC riquezas_NCFP000,
+    a_SP sí_PP3CNO0, siempre_RG me_PP1CS00 causa_VMIP3S0 mal_RG contento_AQ0MS00,
+    poner_VMN0000 riquezas_NCFP000 en_SP mi_DP1CSS entendimiento_NCMS000
+    que_PR0CN00 no_RN mi_DP1CSS entendimiento_NCMS000 en_SP las_DA0FP0 riquezas_NCFP000.
+    Y_CC no_RN estimo_VMIP1S0 hermosura_NCFS000, que_PR0CN00 vencida_NCFS000,
+    es_VSIP3S0 despojo_NCMS000 civil_AQ0CS00 de_SP las_DA0FP0 Edades_NCFP000;
+    ni_CC riqueza_NCFS000 me_PP1CS00 agrada_VMIP3S0 si_CS es_VSIP3S0 mentida_VMP00SF.
+    Teniendo_VMG0000 por_SP mejor_RG en_SP mis_DP1CPS Verdades_NCFP000,
+    consumir_VMN0000 vanidades_NCFP000 de_SP la_DA0FS0 Vida_NCFS000,
+    que_PR0CN00 consumir_VMN0000 la_DA0FS0 Vida_NCFS000 en_SP vanidades_NCFP000.
+    
+    ¿Tan_RG grande_AQ0CS00, ¡ay_I, hado_NCMS000!, mi_DP1CSS delito_NCMS000 ha_VAIP3S0 sido_VSP00SM
+    que_PR0CN00 por_SP castigo_NCMS000 de_SP él_PP3MS00 o_CC por_SP tormento_NCMS000
+    no_RN basta_VMIP3S0 el_DA0MS0 que_PR0CN00 adelanta_VMIP3S0 el_DA0MS0 pensamiento_NCMS000
+    sino_CC el_DA0MS0 que_PR0CN00 le_PP3CSD0 previenes_VMIP2S0 a_SP el_DA0MS0 oído_NCMS000?
+    Tan_RG severo_AQ0MS00 en_SP mi_DP1CSS contra_NCCS000 has_VAIP2S0 procedido_VMP00SM,
+    que_PR0CN00 me_PP1CS00 persuado_VMIP1S0 de_SP tu_DP2CSS duro_AQ0MS00 intento_NCMS000,
+    a_SP que_PR0CN00 solo_RG me_PP1CS00 diste_VMIS2S0 entendimiento_NCMS000
+    porque_CS fuese_VSSI3S0 mi_DP1CSS daño_NCMS000 más_RG crecido_VMP00SM.
+    Diste_VMIS2S0 me_PP1CS00 aplausos_NCMP000 para_SP más_RG baldones_NCMP000,
+    subir_VMN0000 me_PP1CS00 hiciste_VMIS2S0, para_SP penas_NCFP000 tales_PD0CP00;
+    y_CC aun_RG pienso_VMIP1S0 que_CS me_PP1CS00 dieron_VMIS3P0 tus_DP2CPS traiciones_NCFP000
+    penas_NCFP000 a_SP mi_DP1CSS desdicha_NCFS000 desiguales_AQ0CP00
+    porque_CS viendo_VMG0000 te_PP2CS00 rica_AQ0FS00 de_SP tus_DP2CPS dones_NCMP000
+    nadie_PI0CS00 tuviese_VMSI3S0 lástima_NCFS000 a_SP mis_DP1CPS males_NCMP000.
+    
+    Que_CS no_RN me_PP1CS00 quiera_VMSP3S0 Fabio_NP00000, a_SP el_DA0MS0 verse_VMSP3S0 amado_VMP00SM,
+    es_VSIP3S0 dolor_NCMS000, sin_SP igual_RG, en_SP mi_DP1CSS sentido_NCMS000,
+    mas_CC, que_CS me_PP1CS00 quiera_VMSP3S0 Silvio_NP00000 aborrecido_VMP00SM
+    es_VSIP3S0 menos_RG mal_AQ0MS00, más_RG no_RN menor_AQ0CS00 enfado_NCMS000.
+    Que_CS sufrimiento_NCMS000 no_RN estará_VMIF3S0 cansado_VMP00SM,
+    si_CS siempre_RG le_PP3CSD0 resuenan_VMIP3P0 a_SP el_DA0MS0 oído_NCMS000,
+    tras_SP la_DA0FS0 vana_AQ0FS00 arrogancia_NCFS000 de_SP un_DI0MS0 querido_VMP00SM,
+    el_DA0MS0 cansado_VMP00SM gemir_VMN0000 de_SP un_DI0MS0 desdeñado_VMP00SM.
+    Si_CS de_SP Silvio_NP00000 me_PP1CS00 cansa_VMIP3S0 el_DA0MS0 rendimiento_NCMS000,
+    a_SP Fabio_NP00000 canso_VMIP1S0, con_SP estar_VMN0000 rendida_VMP00SF,
+    si_CS de_SP este_DD0MS0 busco_NCMS000 el_DA0MS0 agradecimiento_NCMS000.
+    A_SP mí_PP1CSO0 me_PP1CS00 busca_VMIP3S0 el_DA0MS0 otro_PI0MS00 agradecida_VMP00SF,
+    por_SP activa_AQ0FS00, y_CC pasiva_AQ0FS00 es_VSIP3S0 mi_DP1CSS tormento_NCMS000,
+    pues_CS padezco_VMIP1S0 en_SP querer_VMN0000, y_CC en_SP ser_VSN0000 querida_VMP00SF.
+    
+    El_DA0MS0 Hijo_NCMS000, que_PR0CN00 la_DA0FS0 Esclava_NCFS000 ha_VAIP3S0 concebido_VMP00SM,
+    dice_VMIP3S0 el_DA0MS0 Derecho_NCMS000, que_PR0CN00 le_PP3CSD0 pertenece_VMIP3S0
+    a_SP el_DA0MS0 legítimo_AQ0MS00 Dueño_NCMS000, que_PR0CN00 obedece_VMIP3S0
+    la_DA0FS0 Esclava_NCFS000 Madre_NCFS000 de_SP quien_PR0CS00 es_VSIP3S0 nacido_VMP00SM.
+    El_DA0MS0 que_PR0CN00 retorna_VMIP3S0, el_DA0MS0 campo_NCMS000 agradecido_VMP00SM;
+    opimo_AQ0MS00 fruto_NCMS000, que_PR0CN00 obediente_AQ0CS00 ofrece_VMIP3S0,
+    es_VSIP3S0 de_SP el_DA0MS0 Señor_NP00000, pues_CS si_CS fecundo_AQ0MS00 crece_VMIP3S0,
+    se_P00CN00 lo_PP3MSA0 debe_VMIP3S0 a_SP el_DA0MS0 cultivo_NCMS000 recibido_VMP00SM.
+    Así_RG, Lisi_NP00000 Divina_AQ0FS00 estos_DD0MP0 borrones_NCMP000,
+    que_CS hijos_NCMP000 de_SP el_DA0MS0 alma_NCFS000 son_VSIP3P0, partos_NCMP000 de_SP el_DA0MS0 pecho_NCMS000,
+    será_VSIF3S0 razón_NCFS000, que_CS a_SP ti_PP2CSO0 te_PP2CS00 restituya_VMSP3S0.
+    Y_CC no_RN lo_PP3MSA0 impidan_VMSP3P0 sus_DP3CPN imperfecciones_NCFP000,
+    pues_CS vienen_VMIP3P0 a_SP ser_VSN0000 tuyos_AP0MP2S de_SP derecho_NCMS000
+    los_DA0MP0 conceptos_NCMP000 de_SP un_DI0MS0 Alma_NCFS000, que_PR0CN00 es_VSIP3S0 tan_RG tuya_NCFS000.
+    
+    La_DA0FS0 Mexicana_AQ0FS00 Musa_NCFS000 Hija_NCFS000 eminente_AQ0CS00
+    de_SP Apolo_NP00000, y_CC que_CS las_DA0FP0 Nueve_Z aún_RG más_RG divina_AQ0FS00,
+    porque_CS fuese_VSSI3S0 de_SP el_DA0MS0 Sol_NP00000 la_DA0FS0 Benjamina_NCFS000
+    le_PP3CSD0 nació_VMIS3S0 en_SP la_DA0FS0 vejez_NCFS000 de_SP su_DP3CSN Poniente_NP00000.
+    ¡Qué_DE0CN0 sutil_AQ0CS00, si_CS discurre_VMIP3S0! ¡Qué_DE0CN0 elocuente_AQ0CS00,
+    si_CS razona_VMIP3S0! ¡Si_CS habla_VMIP3S0, qué_PT00000 ladina_AQ0FS00!
+    Y_CC si_CS canta_VMIP3S0 de_SP amor_NCMS000, cuerda_NCFS000 es_VSIP3S0 tan_RG fina_AQ0FS00,
+    que_PR0CN00 no_RN se_P00CN00 oye_VMIP3S0 rozado_VMP00SM en_SP lo_DA00S0 indecente_AQ0CS00.
+    Única_AQ0FS00 poetisa_NCFS000, ese_DD0MS0 talento_NCMS000
+    (que_CS no_RN le_PP3CSD0 desperdicias_VMIP2S0, que_CS le_PP3CSD0 empleas_VMIP2S0)
+    aun_RG le_PP3CSD0 envidia_VMIP3S0 mi_DP1CSS amor_NCMS000, que_PR0CN00 es_VSIP3S0 lince_NCMS000 a-tiento_RG
+    ¡O_CC enhorabuena_RG Peregrina_NCFS000 seas_VSSP2S0,
+    por_SP si_CS vago_VMIP1S0 tal-vez_RG mi_DP1CSS pensamiento_NCMS000,
+    se_P00CN00 encontrase_VMSI3S0 contigo_PP2CSO0 en_SP sus_DP3CPN ideas_NCFP000.
+    
+    Rosa_NCCS000 divina_AQ0FS00 que_PR0CN00 en_SP gentil_AQ0CS00 cultura_NCFS000
+    eres_VSIP2S0 con_SP tu_DP2CSS fragante_AQ0CS00 sutileza_NCFS000
+    magisterio_NCMS000 purpúreo_AQ0MS00 en_SP la_DA0FS0 belleza_NCFS000,
+    enseñanza_NCFS000 nevada_AQ0FS00 en_SP la_DA0FS0 hermosura_NCFS000.
+    Amago_NCMS000 de_SP la_DA0FS0 humana_AQ0FS00 arquitectura_NCFS000,
+    ejemplo_NCMS000 de_SP la_DA0FS0 vana_AQ0FS00 gentileza_NCFS000,
+    en_SP cuyo_PR0MS00 ser_NCMS000 unió_VMIS3S0 naturaleza_NCFS000
+    la_DA0FS0 cuna_NCFS000 alegre_AQ0CS00 y_CC triste_AQ0CS00 sepultura_NCFS000.
+    ¡Cuán_RG altiva_AQ0FS00 en_SP tu_DP2CSS pompa_NCFS000, presumida_VMP00SF,
+    soberbia_AQ0FS00, el_DA0MS0 riesgo_NCMS000 de_SP morir_VMN0000 desdeñas_VMIP2S0,
+    y_CC luego_RG, desmayada_VMP00SF y_CC encogida_VMP00SF,
+    de_SP tu_DP2CSS caduco_AQ0MS00 ser_NCMS000 das_VMIP2S0 mustias_AQ0FP00 señas_NCFP000!
+    Con_SP que_CS con_SP docta_AQ0FS00 muerte_NCFS000 y_CC necia_AQ0FS00 vida_NCFS000
+    viviendo_VMG0000 engañas_VMIP2S0 y_CC muriendo_VMG0000 enseñas_NCFP000.
+    
+    Mandas_VMIP2S0, Anarda_NP00000, que_PR0CN00 sin_SP llanto_NCMS000 asista_VMSP3S0
+    a_SP ver_VMN0000 tus_DP2CPS ojos_NCMP000, de_SP lo_DA00S0 cual_PR0CS00 sospecho_VMIP1S0,
+    que_CS el_DA0MS0 ignorar_VMN0000 la_DA0FS0 causa_NCFS000, es_VSIP3S0 quien_PR0CS00 te_PP2CS00 ha_VAIP3S0 hecho_VMP00SM
+    querer_VMN0000, que_CS emprenda_VMSP3S0 yo_PP1CSN0 tanta_DI0FS0 conquista_NCFS000.
+    Amor_NP00000, Señora_NP00000, sin_SP que_PR0CN00 me_PP1CS00 resista_VMSP3S0,
+    que_PR0CN00 tiene_VMIP3S0 en_SP fuego_NCMS000 el_DA0MS0 corazón_NCMS000 deshecho_VMP00SM,
+    como_CS hace_VMIP3S0 huir_VMN0000 la_DA0FS0 sangre_NCFS000 allá_RG en_SP el_DA0MS0 pecho_NCMS000,
+    vaporiza_VMIP3S0 en_SP ardores_NCMP000 por_SP la_DA0FS0 vista_NCFS000.
+    Buscan_VMIP3P0 luego_RG mis_DP1CPS ojos_NCMP000 tu_DP2CSS presencia_NCFS000,
+    que_PR0CN00 centro_NCMS000 juzga_VMIP3S0 de_SP su_DP3CSN dulce_AQ0CS00 encanto_NCMS000,
+    y_CC cuando_CS mi_DP1CSS atención_NCFS000 te_PP2CS00 reverencia_VMIP3S0.
+    Los_DA0MP0 virtuales_AQ0CP00 rayos_NCMP000 entretanto_RG,
+    como_CS hallan_VMIP3P0 en_SP tu_DP2CSS nieve_NCFS000 resistencia_NCFS000,
+    lo_DA00S0 que_PR0CN00 salió_VMIS3S0 vapor_NCMS000, se_P00CN00 vuelve_VMIP3S0 llanto_NCMS000.
+    
+    Inés_NP00000, cuando_CS te_PP2CS00 riñen_VMIP3P0 por_SP Bellaca_NCFS000,
+    para_SP disculpas_NCFP000, no_RN te_PP2CS00 falta_VMIP3S0 Achaque_NCMS000
+    porque_CS dices_VMIP2S0, que-traque_RG, y_CC que-barraque_RG
+    con_SP que_PR0CN00 sabes_VMIP2S0 muy_RG bien_RG tapar_VMN0000 la_DA0FS0 Caca_NCFS000.
+    Si_CS coges_VMIP2S0 la_DA0FS0 palabra_NCFS000, no_RN hay_VMIP3S0 Urraca_NCFS000,
+    que_PR0CN00 así_RG la_DA0FS0 gorja_NCFS000 de_SP mal_AQ0MS00 año_NCMS000 Saques_VMSP2S0
+    y_CC con_SP tronidos_NCMP000, más_RG que_CS un_DI0MS0 triquitraque_NCNS000,
+    a_SP todo_DI0MS0 el_DA0MS0 Mundo_NCMS000 aturdes_VMIP2S0, cual_PR0CS00 Matraca_NCFS000.
+    Este_DD0MS0 bullicio_NCMS000 todo_DI0MS0 lo_DA00S0 Trabuca_VMIP3S0,
+    este_DD0MS0 embeleco_NCMS000 todo_DI0MS0 lo_DA00S0 Embeleca_VMIP3S0,
+    mas_CC, aunque_CC eres_VSIP2S0 (Inés_NP00000) tan_RG mala_AQ0FS00 Cuca_NCFS000,
+    sabe_VMIP3S0 mi_DP1CSS amor_NCMS000 muy_RG bien_RG lo_DA00S0 que_PR0CN00 se_P00CN00 Peca_VMIP3S0,
+    y_CC así_RG con_SP tu_DP2CSS afición_NCFS000 no_RN se_P00CN00 Embabuca_VMIP3S0,
+    aunque_CC eres_VSIP2S0 Zancarrón_NCMS000, y_CC yo_PP1CSN0 de_SP Meca_NP00000.
+    
+    Aunque_CC eres_VSIP2S0 (Teresilla_NP00000) tan_RG Muchacha_NCFS000,
+    le_PP3CSD0 das_VMIP2S0 que_CS hacer_VMN0000 a_SP el_DA0MS0 pobre_NCCS000 de_SP Camacho_NP00000,
+    porque_CS dará_VMIF3S0 tu_DP2CSS disimulo_NCMS000 un_DI0MS0 Chacho_NCMS000,
+    a_SP aquel_PD0MS00 que_PR0CN00 se_P00CN00 pintase_VMSI3S0 más_RG sin_SP Tacha_NCFS000.
+    De_SP los_DA0MP0 empleos_NCMP000 que_CS tu_DP2CSS amor_NCMS000 despacha_VMIP3S0
+    anda_VMIP3S0 el_DA0MS0 triste_AQ0CS00 cargado_VMP00SM como_CS un_DI0MS0 Macho_NCMS000
+    y_CC tienen_VMIP3P0 tan_RG crecido_VMP00SM ya_RG el_DA0MS0 Penacho_NCMS000,
+    que_PR0CN00 ya_RG no_RN puede_VMIP3S0 entrar_VMN0000, si_CS no_RN se_P00CN00 Agacha_VMIP3S0.
+    Estás_VMIP2S0 a_SP hacer_VMN0000 le_PP3CSD0 burlas_NCFP000 ya_RG tan_RG Ducha_AQ0FS00,
+    y_CC a_SP salir_VMN0000 de_SP ellas_PP3FP00 bien_RG estás_VMIP2S0 tan_RG Hecha_VMP00SF,
+    que_PR0CN00, de_SP lo_DA00S0 que_PR0CN00 tu_DP2CSS vientre_NCMS000 Desembucha_VMIP3S0,
+    sabes_VMIP2S0 dar_VMN0000 le_PP3CSD0 a_SP entender_VMN0000, cuando_CS Sospecha_VMIP3S0,
+    que_PR0CN00 has_VAIP2S0 hecho_VMP00SM, por_SP hacer_VMN0000 su_DP3CSN hacienda_NCFS000 Mucha_DI0FS0,
+    de_SP ajena_AQ0FS00 siembra_NCFS000 suya_AP0FS3N la_DA0FS0 Cosecha_NCFS000.
+    
+    Inés_NP00000, yo_PP1CSN0 con_SP tu_DP2CSS amor_NCMS000 me_PP1CS00 Refocilo_VMIP1S0,
+    y_CC viendo_VMG0000 me_PP1CS00 querer_VMN0000, me_PP1CS00 Regodeo_VMIP1S0,
+    en_SP mirar_VMN0000 tu_DP2CSS Hermosura_NCFS000 me_PP1CS00 Recreo_VMIP1S0,
+    y_CC, cuando_CS está_VMIP3S0 celosa_AQ0FS00 me_PP1CS00 Reguilo_VMIP1S0.
+    Si_CS a_SP otro_DI0MS0 miras_NCFP000, de_SP celos_NCMP000 me_PP1CS00 Aniquilo_VMIP1S0,
+    y_CC tiemblo_VMIP1S0 de_SP tu_DP2CSS Gracia_NCFS000, y_CC tu_DP2CSS Meneo_NCMS000,
+    porque_CS sé_VMIP1S0 (Inés_NP00000) que_PR0CN00 tú_PP2CSN0 con_SP un_DI0MS0 voleo_NCMS000,
+    no_RN dejarás_VMIF2S0 humor_NCMS000, ni_CC aun_RG para_SP Quilo_NCMS000.
+    Cuando_CS estás_VMIP2S0 enojada_VMP00SF no_RN Resuello_VMIP1S0,
+    cuando_CS me_PP1CS00 das_VMIP2S0 picones_AQ0MP00 me_PP1CS00 Refino_VMIP1S0,
+    cuando_CS sales_NCFP000 de_SP casa_NCFS000 no_RN Reposo_VMIP1S0,
+    Y_CC espero_VMIP1S0 (Inés_NP00000) que_CS entre_SP esto_PD00S00, y_CC entre_SP
+    tu_DP2CSS Amor_NP00000 acompañado_VMP00SM de_SP mi_DP1CSS vino_NCMS000,
+    dé_VMSP3S0 conmigo_PP1CSO0 en_SP la_DA0FS0 cama_NCFS000, o_CC en_SP el_DA0MS0 Coso_NCMS000.
+    
+    Vaya_VMM03S0 con_SP Dios_NP00000 (Beatriz_NP00000) el_DA0MS0 ser_NCMS000 Estafa_NCFS000,
+    que_CS esto_PD00S00 se_P00CN00 te_PP2CS00 conoce_VMIP3S0, hasta_RG en_SP el_DA0MS0 Tufo_NCMS000;
+    mas_CC no_RN es_VSIP3S0 razón_NCFS000, que_PR0CN00 siendo_VSG0000 yo_PP1CSN0 tu_DP2CSS Rufo_NCMS000,
+    les_PP3CPD0 sirvas_VMSP2S0 a_SP otros_DI0MP0 gustos_NCMP000 de_SP Garrafa_NCFS000.
+    Fiaste_VMIS2S0 en_SP que_CS tu_DP2CSS traza_NCFS000 es_VSIP3S0 quien_PR0CS00 te_PP2CS00 Zafa_VMIP3S0
+    de_SP mi_DP1CSS cólera_NCCS000, cuando_CS yo_PP1CSN0 más_RG Bufo_VMIP1S0,
+    pues_CS advierte_VMIP3S0 (Beatriz_NP00000) que_CS si_CS me_PP1CS00 Atufo_VMIP1S0,
+    te_PP2CS00 abriré_VMIF1S0 en_SP la_DA0FS0 cabeza_NCCS000 tanta_DI0FS0 Rafa_NCFS000.
+    Di_VMM02S0 me_PP1CS00, si_CS es_VSIP3S0 bien_RG, que_CS el_DA0MS0 otro_PI0MS00 a_SP ti_PP2CSO0 te_PP2CS00 Estafe_VMSP3S0,
+    y_CC cuando_CS por_SP tu_DP2CSS amor_NCFS000 eche_VMSP3S0 yo_PP1CSN0 Bofe_NCMS000,
+    te_PP2CS00 vayas_NCFP000 tú_PP2CSN0 con_SP ese_DD0MS0 Mequetrefe_NCMS000.
+    Y_CC yo_PP1CSN0 me_PP1CS00 vaya_VMSP3S0 a_SP el_DA0MS0 rollo_NCMS000, o_CC a_SP Getafe_NP00000,
+    y_CC sufra_NCFS000 que_PR0CN00 el_DA0MS0 Picaño_NCMS000 de_SP mí_PP1CSO0 mofe_VMSP3S0,
+    en-Asa-Uso-Afe-Ofe-y-Efe_RG.
+    
+    Aunque_CC presume_VMIP3S0 (Nife_NP00000) que_PR0CN00 soy_VSIP1S0 Tosco_AQ0MS00,
+    y_CC que_CS, (cual_PR0CS00 Palomilla_NCFS000) me_PP1CS00 Chamusco_VMIP1S0,
+    yo_PP1CSN0 te_PP2CS00 aseguro_VMIP1S0, que_CS tu_DP2CSS luz_NCFS000 no_RN Busco_VMIP1S0,
+    porque_CS ya_RG tus_DP2CPS engaños_NCMP000 Reconozco_VMIP1S0.
+    Y_CC así_RG aunque_CC en_SP tus_DP2CPS enredos_NCMP000 más_RG me_PP1CS00 Embosco_VMIP1S0,
+    muy_RG poco_RG viene_VMIP3S0 a_SP ser_VSN0000 lo_DA00S0 que_PR0CN00 me_PP1CS00 Ofusco_VMIP1S0,
+    porque_CS, si_CS en_SP el_DA0MS0 color_NCMS000 soy_VSIP1S0 algo_PI0CS00 Fusco_AQ0MS00,
+    soy_VSIP1S0 en_SP la_DA0FS0 condición_NCFS000 mucho_RG más_RG Hosco_AQ0MS00.
+    Lo_DA00S0 que_PR0CN00 es_VSIP3S0 de_SP tus_DP2CPS Picones_NCMP000, no_RN me_PP1CS00 Rasco_VMIP1S0,
+    antes_RG estoy_VMIP1S0 con_SP ellos_PP3MP00 ya_RG tan_RG Fresco_AQ0MS00,
+    que_PR0CN00 te_PP2CS00 puedo_VMIP1S0 servir_VMN0000 de_SP helar_VMN0000 un_DI0MS0 Frasco_NCMS000,
+    Que_CS a_SP dar_VMN0000 te_PP2CS00 nieve_NCFS000 solo_AQ0MS00 me_PP1CS00 Enternezco_VMIP1S0,
+    y_CC así_RG (Nife_NP00000) no_RN piensa_VMIP3S0 dar_VMN0000 me_PP1CS00 Chasco_NCMS000,
+    porque_CS yo_PP1CSN0 sé_VMIP1S0 muy_RG bien_RG lo_DA00S0 que_PR0CN00 me_PP1CS00 Pesco_VMIP1S0.
+    
+    Fabio_NP00000, en_SP el_DA0MS0 ser_VSN0000 de_SP todos_DI0MP0 adoradas_VMP00PF
+    son_VSIP3P0 todas_DI0FP0 las_DA0FP0 beldades_NCFP000 ambiciosas_AQ0FP00,
+    porque_CS tienen_VMIP3P0 las_DA0FP0 aras_NCFP000 por_SP ociosas_NCFP000
+    si_CS no_RN la_PP3FSA0 ven_VMIP3P0 de_SP víctimas_NCFP000 colmadas_VMP00PF.
+    Y_CC así_RG, si_CS de_SP uno_PI0MS00 solo_RG son_VSIP3P0 amadas_VMP00PF
+    viven_VMIP3P0 de_SP la_DA0FS0 fortuna_NCFS000 querellosas_AQ0FP00;
+    porque_CS piensan_VMIP3P0 que_CS más_RG que_CS ser_VSN0000 hermosas_AQ0FP00
+    constituyen_VMIP3P0 deidad_NCFS000 a_SP el_DA0MS0 ser_VSN0000 rogadas_VMP00PF.
+    Mas_CC yo_PP1CSN0 soy_VSIP1S0 en_SP esto_PD00S00 tan_RG medida_NCFS000,
+    que_PR0CN00 en_SP viendo_VMG0000 a_SP muchos_DI0MP0 mi_DP1CSS atención_NCFS000 zozobra_NCFS000
+    y_CC solo_RG quiero_VMIP1S0 ser_VSN0000 correspondida_VMP00SF
+    de_SP aquel_PD0MS00 que_PR0CN00 de_SP mi_DP1CSS amor_NCMS000 réditos_NCMP000 cobra_VMIP3S0;
+    porque_CS es_VSIP3S0 la_DA0FS0 sal_NCFS000 de_SP el_DA0MS0 gusto_NCMS000 a_SP el_DA0MS0 ser_VSN0000 querida_VMP00SF:
+    que_CS daña_VMIP3S0 lo_DA00S0 que_PR0CN00 falta_VMIP3S0 y_CC lo_DA00S0 que_PR0CN00 sobra_VMIP3S0.
+    
+    Diuturna_AQ0FS00 enfermedad_NCFS000 de_SP la_DA0FS0 esperanza_NCFS000,
+    que_PR0CN00 así_RG entretienes_VMIP2S0 mis_DP1CPS cansado_VMP00SM años_NCMP000,
+    y_CC el_DA0MS0 fiel_NCCS000 de_SP los_DA0MP0 bienes_NCMP000, y_CC los_DA0MP0 daños_NCMP000,
+    tienes_VMIP2S0 en_SP equilibrio_NCMS000 la_DA0FS0 balanza_NCFS000.
+    Que_CS siempre_RG suspendida_VMP00SF, en_SP la_DA0FS0 tardanza_NCFS000
+    de_SP inclinarse_VMN0000, no_RN dejan_VMIP3P0 tus_DP2CPS engaños_NCMP000
+    que_PR0CN00 lleguen_VMSP3P0 a_SP excederse_VMN0000 en_SP los_DA0MP0 tamaños_NCMP000
+    la_DA0FS0 desesperación_NCFS000, o_CC confianza_NCFS000.
+    ¿Quién_PT0CS00 te_PP2CS00 ha_VAIP3S0 quitado_VMP00SM el_DA0MS0 nombre_NCMS000 de_SP homicida_NCCS000?
+    pues_CS lo_PP3MSA0 eres_VSIP2S0 más_RG severa_AQ0FS00, si_CS se_P00CN00 advierte_VMIP3S0,
+    que_PR0CN00 suspendes_VMIP2S0 el_DA0MS0 alma_NCFS000 entretenida_VMP00SF;
+    y_CC entre_SP la_DA0FS0 infausta_AQ0FS00, o_CC felice_AQ0CS00 suerte_NCFS000,
+    no_RN lo_PP3MSA0 haces_VMIP2S0 tú_PP2CSN0, por_SP conservar_VMN0000 la_DA0FS0 vida_NCFS000,
+    sino_CC por_SP dar_VMN0000 más_RG dilatada_VMP00SF muerte_NCFS000.
+    
+    Dulce_AQ0CS00 Deidad_NCFS000 de_SP el_DA0MS0 viento_NCMS000 armonioso_AQ0MS00,
+    suspensión_NCFS000 de_SP el_DA0MS0 sentido_NCMS000 deseada_VMP00SF,
+    donde_PR00000 gustosamente_RG aprisionada_VMP00SF,
+    se_P00CN00 mira_VMM02S0 la_DA0FS0 atención_NCFS000 más_RG bulliciosa_AQ0FS00.
+    Perdona_VMIP3S0 a_SP mi_DP1CSS zampoña_NCFS000 licenciosa_AQ0FS00,
+    si_CS el_DA0MS0 escuchar_VMN0000 tu_DP2CSS Lira_NCFS000 delicada_AQ0FS00,
+    canta_VMIP3S0 con_SP toda_DI0FS0 voz_NCFS000 desentonada_VMP00SF,
+    prodigios_NCMP000 de_SP la_DA0FS0 tuya_AP0FS2S milagrosa_AQ0FS00.
+    Pause_VMSP3S0 tu_DP2CSS lira_NCFS000 el_DA0MS0 Tracio_NP00000, que_PR0CN00 aunque_CC calma_NCFS000
+    puso_VMIS3S0 a_SP las_DA0FP0 negras_AQ0FP00 sombras_NCFP000 de_SP el_DA0MS0 olvido_NCMS000,
+    ceder_VMN0000 te_PP2CS00 debe_VMIP3S0 más_RG gloriosa_AQ0FS00 palma_NCFS000.
+    Pues_CS más_RG que_CS a_SP ciencia_NCFS000 el_DA0MS0 arte_NCCS000 has_VAIP2S0 reducido_VMP00SM,
+    haciendo_VMG0000 suspensión_NCFS000 de_SP toda_DI0FS0 un_DI0MS0 alma_NCFS000,
+    el_DA0MS0 que_PR0CN00 solo_RG era_VSII3S0 objeto_NCMS000 de_SP un_DI0MS0 sentido_NCMS000.
+    
+    ¿Qué_PT00000 es_VSIP3S0 esto_PD00S00, Alcino_NP00000, cómo_PT00000 tu_DP2CSS cordura_NCFS000
+    se_P00CN00 deja_VMIP3S0 así_RG vencer_VMN0000 de_SP un_DI0MS0 mal_NCMS000 celoso_AQ0MS00,
+    haciendo_VMG0000 con_SP extremos_NCMP000 de_SP furioso_AQ0MS00
+    demostraciones_NCFP000 más_RG que_CS de_SP locura_NCFS000?
+    ¿En_SP qué_PT00000 te_PP2CS00 ofendió_VMIS3S0 Celia_NP00000? si_CS se_P00CN00 apura_VMIP3S0;
+    o_CC porque_CS a_SP el_DA0MS0 amor_NCMS000 culpas_NCFP000 de_SP engañoso_AQ0MS00,
+    si_CS no_RN aseguró_VMIS3S0 nunca_RG poderoso_AQ0MS00
+    la_DA0FS0 eterna_AQ0FS00 posesión_NCFS000 de_SP su_DP3CSN hermosura_NCFS000?
+    La_DA0FS0 posesión_NCFS000 de_SP cosas_NCFP000 temporales_AQ0CP00
+    temporales_AQ0CP00, Alcino_NP00000, y_CC es_VSIP3S0 abuso_NCMS000
+    el_DA0MS0 querer_VMN0000 conservar_VMN0000 las_PP3FPA0 siempre_RG iguales_AQ0CP00.
+    Con_SP que_CS tu_DP2CSS error_NCMS000, o_CC tu_DP2CSS ignorancia_NCFS000 acuso_VMIP1S0,
+    pues_CS Fortunas_NP00000, y_CC Amor_NP00000 de_SP cosas_NCFP000 tales_DD0CP0
+    la_DA0FS0 propiedad_NCFS000 no_RN han_VAIP3P0 dado_VMP00SM, sino_CC el_DA0MS0 uso_NCMS000.
+    
+    De_SP la_DA0FS0 beldad_NCFS000 de_SP Laura_NP00000 enamorados_VMP00PM
+    los_DA0MP0 Cielos_NCMP000, le_PP3CSD0 robaron_VMIS3P0 a_SP su_DP3CSN altura_NCFS000,
+    porque_CS no_RN era_VSII3S0 decente_AQ0CS00 a_SP su_DP3CSN luz_NCFS000 pura_AQ0FS00,
+    ilustrar_VMN0000 estos_DD0MP0 valles_NCMP000 desdichados_AQ0MP00.
+    O_CC porque_CS los_DA0MP0 Mortales_NCCP000 engañados_VMP00PM,
+    de_SP su_DP3CSN cuerpo_NCMS000 en_SP la_DA0FS0 hermosa_AQ0FS00 arquitectura_NCFS000,
+    admirados_VMP00PM de_SP ver_VMN0000 tanta_DI0FS0 hermosura_NCFS000,
+    no_RN se_P00CN00 juzgasen_VMSI3P0 bienaventurados_AQ0MP00,
+    Nació_VMIS3S0 donde_PR00000 el_DA0MS0 Oriente_NP00000 el_DA0MS0 rojo_AQ0MS00 velo_NCMS000
+    corre_VMIP3S0 a_SP el_DA0MS0 nacer_VMN0000 el_DA0MS0 Astro_NCMS000 rubicundo_AQ0MS00,
+    y_CC murió_VMIS3S0, donde_PR00000 con_SP ardiente_AQ0CS00 anhelo_NCMS000
+    da_VMIP3S0 sepulcro_NCMS000 a_SP su_DP3CSN luz_NCFS000 el_DA0MS0 mar_NCCS000 profundo_AQ0MS00,
+    que_PR0CN00 fue_VSIS3S0 preciso_AQ0MS00 a_SP su_DP3CSN divino_AQ0MS00 vuelo_NCMS000,
+    que_CS diese_VMSI3S0 como_CS Sol_NCMS000 la_DA0FS0 vuelta_NCFS000 a_SP el_DA0MS0 Mundo_NCMS000.
+    
+    La_DA0FS0 compuesta_VMP00SF de_SP flores_NCFP000 maravilla_NCFS000,
+    divina_AQ0FS00 protectora_NCFS000 americana_AQ0FS00,
+    que_CS a_SP ser_VSN0000 se_P00CN00 pasa_VMIP3S0 rosa_NCCS000 mexicana_AQ0FS00
+    apareciendo_VMG0000 rosa_NCCS000 de_SP Castilla_NP00000;
+    la_DA0FS0 que_PR0CN00, en-vez-de_SP el_DA0MS0 dragón_NCMS000 (de_SP quien_PR0CS00 humilla_VMIP3S0
+    cerviz_NCFS000 rebelde_AQ0CS00 en_SP Pathmos_NP00000) huella_NCFS000 ufana_AQ0FS00
+    hasta_SP aquí_RG inteligencia_NCFS000 soberana_AQ0FS00
+    de_SP su_DP3CSN pura_AQ0FS00 grandeza_NCFS000, pura_AQ0FS00 silla_NCFS000;
+    ya_RG el_DA0MS0 cielo_NCMS000, que_CS la_DA0FS0 copia_NCFS000 misterioso_AQ0MS00,
+    segunda_AO0FS00 vez_NCFS000 sus_DP3CPN señas_NCFP000 celestiales_AQ0CP00
+    en_SP guarismo_NCMS000 de_SP flores_NCFP000 claro_AQ0MS00 suma_AQ0FS00;
+    pues_CS no_RN menos_RG le_PP3CSD0 dan_VMIP3P0 traslado_NCMS000 hermoso_AQ0MS00
+    las_DA0FP0 flores_NCFP000 de_SP tus_DP2CPS versos_NCMP000 sin_SP iguales_AQ0CP00,
+    la_DA0FS0 maravilla_NCFS000 de_SP tu_DP2CSS culta_AQ0FS00 pluma_NCFS000.
+    
+    Probable_AQ0CS00 opinión_NCFS000 es_VSIP3S0, que_CS conservarse_VMN0000
+    la_DA0FS0 forma_NCFS000 celestial_AQ0CS00 en_SP su_DP3CSN fijeza_NCFS000,
+    no_RN es_VSIP3S0 porque_CS en_SP la_DA0FS0 materia_NCFS000 hay_VMIP3S0 más_RG nobleza_NCFS000,
+    sino_CC por_SP la_DA0FS0 manera_NCFS000 de_SP informarse_VMN0000.
+    Porque_CS aquel_DD0MS0 apetito_NCMS000 de_SP mudarse_VMN0000,
+    la_DA0FS0 sacia_VMIP3S0 de_SP la_DA0FS0 forma_NCFS000, la_DA0FS0 Nobleza_NCFS000,
+    con_SP que_PR0CN00 cesando_VMG0000 el_DA0MS0 apetito_NCMS000, cesa_VMIP3S0
+    la_DA0FS0 ocasión_NCFS000, que_PR0CN00 tuvieran_VMSI3P0 de_SP apartarse_VMN0000.
+    Así_RG tu_DP2CSS amor_NCMS000, con_SP vínculo_NCMS000 terrible_AQ0CS00,
+    el_DA0MS0 alma_NCFS000 que_PR0CN00 te_PP2CS00 adora_VMIP3S0, Celia_NP00000 informa_VMIP3S0,
+    con_SP que_CS su_DP3CSN corrupción_NCFS000 es_VSIP3S0 imposible_AQ0CS00.
+    Ni_RN aducir_VMN0000 otra_PI0FS00 con_SP quien_PR0CS00 no_RN conforma_VMIP3S0,
+    no_RN por_SP ser_VSN0000 la_DA0FS0 materia_NCFS000 incorruptible_AQ0CS00,
+    más_RG por_SP lo_DA00S0 inadmisible_AQ0CS00 de_SP la_DA0FS0 forma_NCFS000.
+    
+    Aunque_CC es_VSIP3S0 clara_AQ0FS00 de_SP el_DA0MS0 Cielo_NCMS000 la_DA0FS0 luz_NCFS000 pura_AQ0FS00
+    clara_AQ0FS00 la_DA0FS0 Luna_NCFS000, y_CC claras_AQ0FP00 las_DA0FP0 Estrellas_NCFP000,
+    y_CC clara_AQ0FS00 las_DA0FP0 efímeras_AQ0FP00 centellas_NCFP000,
+    que_CS el_DA0MS0 aire_NCMS000 eleva_VMIP3S0, y_CC el_DA0MS0 incendio_NCMS000 apura_VMIP3S0.
+    Aunque_CC es_VSIP3S0 el_DA0MS0 rayo_NCMS000 claro_AQ0MS00, cuya_PR0FS00 dura_VMIP3S0
+    producción_NCFS000, cuesta_VMIP3S0 a_SP el_DA0MS0 viento_NCMS000 mi_DP1CSS querellas_NCFP000,
+    y_CC el_DA0MS0 relámpago_NCMS000, que_PR0CN00 hizo_VMIS3S0 de_SP su_DP3CSN huellas_NCFP000
+    medrosa_AQ0FS00 luz_NCFS000 en_SP la_DA0FS0 tiniebla_NCFS000 oscura_AQ0FS00.
+    Todo_DI0MS0 el_DA0MS0 conocimiento_NCMS000 torpe_AQ0CS00 humano_AQ0MS00,
+    se_P00CN00 estuvo_VMIS3S0 oscuro_AQ0MS00, sin_SP que_CS los_DA0MP0 mortales_NCCP000,
+    plumas_NCFP000 pudiesen_VMSI3P0 ser_VSN0000, con_SP vuelo_NCMS000 ufano_AQ0MS00.
+    Ícaros_NP00000 de_SP discursos_NCMP000 racionales_AQ0CP00,
+    hasta_SP que_CS a_SP el_DA0MS0 tuyo_AP0MS2S, Eusebio_NP00000 soberano_AQ0MS00,
+    les_PP3CPD0 dio_VMIS3S0 a_SP las_DA0FP0 luces_NCFP000, luces_NCFP000 celestiales_AQ0CP00.
+    
+    Mueran_VMM03P0 contigo_PP2CSO0, Laura_NP00000, pues_CS moriste_VMIS2S0,
+    los_DA0MP0 afectos_NCMP000, que_PR0CN00 en_SP vano_NCMS000 te_PP2CS00 desean_VMIP3P0,
+    los_DA0MP0 ojos_NCMP000, a_SP quien_PR0CS00 privas_VMIP2S0, de_SP que_CS vean_VMSP3P0
+    la_DA0FS0 hermosa_AQ0FS00 luz_NCFS000, que_PR0CN00 a_SP un_DI0MS0 tiempo_NCMS000 concediste_VMIS2S0.
+    Muera_VMSP3S0 mi_DP1CSS Lira_NCFS000 infausta_AQ0FS00, en_SP que_PR0CN00 influiste_VMIS2S0
+    ecos_NCMP000, que_PR0CN00 lamentables_AQ0CP00 te_PP2CS00 vocean_VMIP3P0,
+    y_CC, hasta_SP estos_DD0MP0 rasgos_NCMP000 mal_RG formados_VMP00PM, sean_VSSP3P0
+    lágrimas_NCFP000 negras_AQ0FP00 de_SP mi_DP1CSS pluma_NCFS000 triste_AQ0CS00.
+    Mueva_VMM03S0 se_PP3CN00 a_SP compasión_NCFS000 la_DA0FS0 misma_AQ0FS00 muerte_NCFS000,
+    que_PR0CN00 precisa_VMIP3S0 no_RN pudo_VMIS3S0 perdonar_VMN0000 te_PP2CS00,
+    y_CC lamentó_VMIS3S0 el_DA0MS0 amor_NCMS000 su_DP3CSN amarga_AQ0FS00 suerte_NCFS000.
+    Pues_CS si_CS antes_RG, ambicioso_AQ0MS00 de_SP gozar_VMN0000 te_PP2CS00,
+    deseó_VMIS3S0 tener_VMN0000 ojos_NCMP000 para_SP ver_VMN0000 te_PP2CS00
+    ya_RG le_PP3CSD0 sirvieran_VMSI3P0 solo_RG de_SP llorar_VMN0000 te_PP2CS00.
+    
+    Amor_NCFS000 empieza_VMIP3S0 por_SP desasosiego_NCMS000,
+    solicitud_NCFS000, ardores_NCMP000 y_CC desvelos_NCMP000;
+    crece_VMIP3S0 con_SP riesgos_NCMP000, lances_NCMP000 y_CC recelos_NCMP000,
+    susténtase_VMSI3S0 de_SP llantos_NCMP000 y_CC de_SP ruegos_NCMP000.
+    Doctrinan_VMIP3P0 le_PP3CSD0 tibiezas_NCFP000 y_CC despego_NCMS000,
+    conserva_VMIP3S0 el_DA0MS0 ser_NCMS000 entre_SP engañosos_AQ0MP00 velos_NCMP000,
+    hasta_SP que_CS con_SP agravios_NCMP000 o_CC con_SP celos_NCMP000
+    apaga_VMIP3S0 con_SP sus_DP3CPN lágrimas_NCFP000 su_DP3CSN fuego_NCMS000.
+    Su_DP3CSN principio_NCMS000, su_DP3CSN medio_NCMS000 y_CC fin_NCMS000 es_VSIP3S0 éste_PD0MS00;
+    pues_CS, ¿por_SP qué_PT00000, Alcino_NP00000, sientes_VMIP2S0 el_DA0MS0 desvío_NCMS000
+    de_SP Celia_NP00000 que_CS otro_DI0MS0 tiempo_NCMS000 bien_RG te_PP2CS00 quiso_VMIS3S0?
+    ¿Qué_DT0CN0 razón_NCFS000 hay_VMIP3S0 de_SP que_PR0CN00 dolor_NCMS000 te_PP2CS00 cueste_VMSP3S0,
+    pues_CS no_RN te_PP2CS00 engañó_VMIS3S0 Amor_NP00000, Alcino_NP00000 mío_VMIP1S0,
+    sino-que_CC llegó_VMIS3S0 el_DA0MS0 término_NCMS000 preciso_AQ0MS00?
+    
+    Yo_PP1CSN0 no_RN puedo_VMIP1S0 tener_VMN0000 te_PP2CS00 ni_CC dejar_VMN0000 te_PP2CS00,
+    ni_CC sé_VMIP1S0 por_SP qué_PT00000, a_SP el_DA0MS0 dejar_VMN0000 te_PP2CS00 o_CC a_SP el_DA0MS0 tener_VMN0000 te_PP2CS00,
+    se_P00CN00 encuentra_VMIP3S0 un_DI0MS0 no_RN sé_VMIP1S0 qué_PT00000 para_SP querer_VMN0000 te_PP2CS00
+    y_CC muchos_PI0MP00 sí_PP3CNO0 sé_VMIP1S0 qué_PT00000 para_SP olvidar_VMN0000 te_PP2CS00.
+    Pues_CS ni_RN quieres_VMIP2S0 dejar_VMN0000 me_PP1CS00 ni_CC enmendar_VMN0000 te_PP2CS00,
+    yo_PP1CSN0 templaré_VMIF1S0 mi_DP1CSS corazón_NCMS000 de-suerte
+-que_CS la_DA0FS0  mitad_NCFS000 se_P00CN00 incline_VMSP3S0 a_SP aborrecer_VMN0000 te_PP2CS00
+    aunque_CC la_DA0FS0 otra_DI0FS0 mitad_NCFS000 se_P00CN00 incline_VMSP3S0 a_SP amar_VMN0000 te_PP2CS00.
+    Si_CS ello_PD00S00 es_VSIP3S0 fuerza_NCFS000 querer_VMN0000 nos_PP1CP00, haya_VMSP3S0 modo_NCMS000,
+    que_PR0CN00 es_VSIP3S0 morir_VMN0000 el_DA0MS0 estar_VMN0000 siempre_RG riñendo_VMG0000:
+    no_RN se_P00CN00 hable_VMSP3S0 más_RG en_SP celo_NCMS000 o_CC en_SP sospecha_NCFS000,
+    y_CC quien_PR0CS00 da_VMIP3S0 la_DA0FS0 mitad_NCFS000, no_RN quiera_VMSP3S0 el_DA0MS0 todo_PI0MS00;
+    y_CC cuando_CS me_PP1CS00 la_PP3FSA0 estás_VMIP2S0 allá_RG haciendo_VMG0000,
+    sabe_VMIP3S0 que_CS estoy_VMIP1S0 haciendo_VMIP1S0 la_DA0FS0 desecha_VMIP3S0.
+    
+    Dices_VMIP2S0 que_CS yo_PP1CSN0 te_PP2CS00 olvido_NCMS000, Celio_NP00000, y_CC mientes_NCFP000
+    en_SP decir_VMN0000 que_CS me_PP1CS00 acuerdo_NCMS000 de_SP olvidar_VMN0000 te_PP2CS00,
+    pues_CS no_RN hay_VMIP3S0 en_SP mi_DP1CSS memoria_NCFS000 alguna_DI0FS0 parte_NCCS000
+    en_SP que_CS, aún_RG como_CS olvidado_VMP00SM, te_PP2CS00 presentes_AQ0CP00.
+    Mis_DP1CPS pensamientos_NCMP000 son_VSIP3P0 tan_RG diferentes_AQ0CP00
+    y_CC en_SP todo_PI0MS00 tan_RG ajenos_AQ0MP00 de_SP tratarte_NCCS000,
+    que_PR0CN00 ni_RN saben_VMIP3P0 si_CS pueden_VMIP3P0 olvidar_VMN0000 te_PP2CS00,
+    ni_CC si_CS te_PP2CS00 olvidan_VMIP3P0 saben_VMIP3P0 si_CS lo_PP3MSA0 sientes_VMSP2S0.
+    Si_CS tú_PP2CSN0 fueras_VSSI2S0 capaz_AQ0CS00 de_SP ser_VSN0000 querido_VMP00SM,
+    fueras_VSSI2S0 capaz_AQ0CS00 de_SP olvido_NCMS000; y_CC ya_RG era_VSII3S0 gloria_NCFS000
+    a_SP el_DA0MS0 menos_RG la_DA0FS0 potencia_NCFS000 de_SP haber_VAN0000 sido_VSP00SM.
+    Mas_CC tan_RG lejos_RG estás_VMIP2S0 de_SP esa_DD0FS0 victoria_NCFS000,
+    que_CS este_PD0MS00 no_RN acordar_VMN0000 me_PP1CS00 no_RN es_VSIP3S0 olvido_NCMS000
+    sino_CC una_DI0FS0 negación_NCFS000 de_SP la_DA0FS0 memoria_NCFS000.
+    
+    Bello_AQ0MS00 compuesto_NCMS000 en_SP Laura_NP00000 dividido_VMP00SM,
+    alma_NCFS000 inmortal_AQ0CS00, espíritu_NCMS000 glorioso_AQ0MS00,
+    ¿por_SP qué_PT00000 dejaste_VMIS2S0 cuerpo_NCMS000 tan_RG hermoso_AQ0MS00?
+    ¿y_CC para_SP qué_PT00000 tal_DD0CS0 alma_NCFS000 has_VAIP2S0 despedido_VMP00SM?
+    Pero_CC ya_RG ha_VAIP3S0 penetrado_VMP00SM mi_DP1CSS sentido_NCMS000,
+    que_PR0CN00 sufres_VMIP2S0 el_DA0MS0 divorcio_NCMS000 riguroso_AQ0MS00.
+    Porque_CS el_DA0MS0 día_NCMS000 final_AQ0CS00 puedas_VMSP2S0 gozoso_AQ0MS00
+    volver_VMN0000 a_SP ser_VSN0000 enteramente_NCCN000 uncido_VMP00SM.
+    Alza_VMIP3S0 tu_DP2CSS alma_NCFS000 dichosa_AQ0FS00 a_SP el_DA0MS0 presto_AQ0MS00 vuelo_NCMS000,
+    y_CC de_SP tu_DP2CSS hermosa_AQ0FS00 cárcel_NCFS000 desatada_VMP00SF,
+    dejando_VMG0000 vuelto_VMP00SM su_DP3CSN arrebol_NCMS000 en_SP hielo_NCMS000,
+    sube_VMIP3S0 a_SP ser_VSN0000 de_SP Luceros_NCMP000 coronada_VMP00SF;
+    que_CS bien_RG es_VSIP3S0 necesario_AQ0MS00 todo_DI0MS0 el_DA0MS0 cielo_NCMS000
+    porque_CS no_RN eches_VMSP2S0 de_SP menos_RG tu_DP2CSS morada_NCFS000.
+    
+    En_SP la_DA0FS0 vida_NCFS000 que_PR0CN00 siempre_RG tuya_NCFS000 fue_VSIS3S0,
+    Laura_NP00000 divina_AQ0FS00, y_CC siempre_RG lo_PP3MSA0 será_VSIF3S0,
+    la_DA0FS0 parca_NCFS000 fiera_AQ0FS00, que_PR0CN00 en_SP seguir_VMN0000 me_PP1CS00 da_VMIP3S0,
+    quiso_VMIS3S0 asentar_VMN0000 por_SP triunfo_NCMS000 el_DA0MS0 mortal_AQ0CS00 pie_NCMS000.
+    Yo_PP1CSN0 de_SP su_DP3CSN atrevimiento_NCMS000 me_PP1CS00 admiré_VMIS1S0,
+    que_CS si_CS debajo-de_SP su_DP3CSN imperio_NCMS000 está_VMIP3S0
+    tener_VMN0000 poder_NCMS000, no_RN puede_VMIP3S0 en_SP ella_PP3FS00 ya_RG,
+    pues_CS de_SP el_DA0MS0 suyo_AP0MS3N contigo_PP2CSO0 me_PP1CS00 libré_VMIS1S0.
+    Para_SP cortar_VMN0000 el_DA0MS0 hilo_NCMS000 que_PR0CN00 no_RN hiló_VMIS3S0,
+    la_DA0FS0 tijera_NCFS000 mortal_AQ0CS00 abierta_VMP00SF vi_VMIS1S0;
+    ¡ay_I parca_NCFS000 fiera_AQ0FS00! dije_VMIS1S0 entonces_RG yo_PP1CSN0,
+    mira_VMM02S0 que_CS sola_AQ0FS00 Laura_NP00000 manda_VMIP3S0 aquí_RG;
+    ella_PP3FS00, corrida_NCFS000, a_SP el_DA0MS0 punto_NCMS000 se_P00CN00 apartó_VMIS3S0
+    y_CC dejo_VMIS3S0 me_PP1CS00 morir_VMN0000 solo_RG por_SP ti_PP2CSO0.
+    
+
+    Como_CS en_SP la_DA0FS0 regia_AQ0FS00 playa_NCFS000 cristalina_AQ0FS00
+    el_DA0MS0 gran_AQ0CS00 señor_NCMS000 de_SP el_DA0MS0 húmedo_AQ0MS00 tridente_NCMS000
+    acompaña_VMIP3S0 ideal_AQ0CS00, sirve_VMIP3S0 obediente_AQ0CS00
+    a_SP cerúlea_AQ0FS00 deidad_NCFS000, pompa_NCFS000 marina_AQ0FS00,
+    no_RN de_SP otra_DI0FS0 suerte_NCFS000, a_SP el_DA0MS0 Cerda_NP00000 heroico_AQ0MS00 inclina_VMIP3S0
+    de_SP almejas_NCFP000 coronada_VMP00SF la_DA0FS0 alta_AQ0FS00 frente_NCCS000,
+    la_DA0FS0 laguna_NCFS000 imperial_AQ0CS00 de_SP el_DA0MS0 occidente_NCMS000,
+    y_CC a_SP el_DA0MS0 dulce_AQ0CS00 yugo_NCMS000 la_DA0FS0 cerviz_NCFS000 destina_VMIP3S0.
+    Tres_Z partes_NCCP000 de_SP el_DA0MS0 tridente_NCMS000 significa_VMIP3S0
+    dulce_AQ0CS00, amarga_AQ0FS00 y_CC salada_VMP00SF en_SP sus_DP3CPN cristales_NCMP000,
+    y_CC tantas_DI0FP0 a_SP el_DA0MS0 bastón_NCMS000 dan_VMIP3P0 conveniencia_NCFS000:
+    porque_CS lo_DA00S0 dulce_NCMS000 o_CC lo_DA00S0 civil_AQ0CS00 se_P00CN00 aplica_VMIP3S0,
+    lo_DA00S0 amargo_AQ0MS00 a_SP ejecuciones_NCFP000 criminales_AQ0CP00,
+    y_CC lo_DA00S0 salado_VMP00SM a_SP militar_AQ0CS00 prudencia_NCFS000.
+    
+
+    Cítara_NCFS000 de_SP carmín_NCMS000 que_PR0CN00 amaneciste_VMIS2S0
+    trinando_VMG0000 endechas_NCFP000 a_SP tu_DP2CSS amada_VMP00SF esposa_NCFS000
+    y_CC, paciendo_VMG0000 le_PP3CSD0 el_DA0MS0 ámbar_NCMS000 a_SP la_DA0FS0 rosa_NCCS000,
+    el_DA0MS0 pico_NCMS000 de_SP oro_NCMS000, de_SP coral_NCCS000 teñiste_VMIS2S0;
+    dulce_NCMS000 jilguero_NCMS000, pajarito_NCMS000 triste_AQ0CS00,
+    que_PR0CN00 apenas_RG el_DA0MS0 aurora_NCFS000 viste_VMIS2S0 hermosa_AQ0FS00
+    cuando_CS el_DA0MS0 tono_NCMS000 primero_RG de_SP una_DI0FS0 glosa_NCFS000
+    la_DA0FS0 muerte_NCFS000 hallaste_VMIS2S0 y_CC el_DA0MS0 compás_NCMS000 pediste_VMIS2S0:
+     no_RN hay_VMIP3S0 en_SP la_DA0FS0 vida_NCFS000, no_RN, segura_AQ0FS00 suerte_NCFS000;
+    tu_DP2CSS misma_AQ0FS00 voz_NCFS000 a_SP el_DA0MS0 cazador_NCMS000 convida_VMIP3S0
+    para_SP que_CS el_DA0MS0 golpe_NCMS000 cuando_CS tire_VMSP3S0 acierte_VMSP3S0.
+     ¡Oh_I fortuna_NCFS000 buscada_VMP00SF aunque_CC temida_VMP00SF!
+    ¿Quién_PT0CS00 pensará_VMIF3S0 que_CS cómplice_NCCS000 en_SP tu_DP2CSS muerte_NCFS000
+    fuera_RG, por_SP no_RN callar_VMN0000, tu_DP2CSS propia_AQ0FS00 vida_NCFS000? 
+    
+    Señora_NCFS000 Doña-Rosa_NP00000 hermosa_AQ0FS00 amago_NCMS000
+    de_SP cuantas_DI0FP0 flores_NCFP000 miran_VMIP3P0 Sol_NCMS000 y_CC Luna_NCFS000:
+    ¿cómo_PT00000, si_CS es_VSIP3S0 dama_NCFS000 ya_RG, se_P00CN00 está_VMIP3S0 en_SP la_DA0FS0 cuna_NCFS000,
+    y_CC si_CS es_VSIP3S0 divina_AQ0FS00, teme_VMIP3S0 humano_AQ0MS00 estrago_NCMS000?
+     ¿Cómo_PT00000, expuesta_VMP00SF de_SP el_DA0MS0 cierzo_NCMS000 a_SP el_DA0MS0 rigor_NCMS000 vago_AQ0MS00,
+    teme_VMIP3S0 humilde_AQ0CS00 el_DA0MS0 desdén_NCMS000 de_SP la_DA0FS0 fortuna_NCFS000,
+    mendigando_VMG0000 alimentos_NCMP000, importuna_AQ0FS00,
+    de_SP el_DA0MS0 turbio_AQ0MS00 humor_NCMS000 de_SP un_DI0MS0 cenagoso_AQ0MS00 lago_NCMS000?
+    Bien_RG sé_VMIP1S0 que_CS ha_VMIP3S0 de_SP decirte_NCCS000 que_CS el_DA0MS0 respeto_NCMS000
+    le_PP3CSD0 pierdo_VMIP1S0 con_SP mi_DP1CSS mal_RG limada_VMP00SF prosa_NCFS000.
+    Pues_CS a_SP fe_NCFS000 que_PR0CN00 me_PP1CS00 he_VAIP1S0 visto_VMP00SM en_SP harto_AQ0MS00 aprieto_NCMS000;
+    y_CC advierta_VMSP3S0 vuesarced_NCFS000, señora_NCFS000 Rosa_NP00000,
+    que_PR0CN00 le_PP3CSD0 escribo_VMIP1S0, no_RN más_RG, este_DD0MS0 soneto_NCMS000
+    porque_CS todo_DI0MS0 poeta_NCMS000 aquí_RG se_P00CN00 roza_VMIP3S0.
+
+
+    a_SP el_DA0MS0 que_PR0CN00 ingrato_AQ0MS00 me_PP1CS00 deja_VMIP3S0 busco_NCMS000 amante_AQ0CS00;
+    a_SP el_DA0MS0 que_PR0CN00 amante_NCCS000 me_P01CS00 sigue_VMIP3S0 dejo_NCMS000 ingrata_AQ0FS00;
+    constante_AQ0CS00 adoro_VMIP1S0 a_SP quien_PR0CS00 mi_DP1CSS amor_NCMS000 maltrata_VMIP3S0,
+    maltrato_NCMS000 a_SP quien_PR0CS00 mi_DP1CSS amor_NCMS000 busca_VMIP3S0 constante_AQ0CS00.
+    a_SP el_DA0MS0 que_PR0CN00 trato_VMIP1S0 de_SP amor_NCMS000 hallo_VMIP1S0 diamante_NCMS000
+    y_CC soy_VSIP1S0 diamante_NCMS000 a_SP el_DA0MS0 que_PR0CN00 de_SP amor_NCMS000 me_PP1CS00 trata_VMIP3S0,
+    triunfante_AQ0CS00 quiero_VMIP1S0 ver_VMN0000 a_SP el_DA0MS0 que_PR0CN00 me_PP1CS00 mata_VMIP3S0
+    y_CC mato_VMIP1S0 a_SP el_DA0MS0 que_PR0CN00 me_PP1CS00 quiere_VMIP3S0 ver_VMN0000 triunfante_AQ0CS00.
+    Si_CS a_SP éste_PD0MS00 pago_NCMS000, padece_VMIP3S0 mi_DP1CSS deseo_NCMS000;
+    si_CS ruego_NCMS000 a_SP aquel_PD0MS00, mi_DP1CSS pundonor_NCMS000 enojo_NCMS000;
+    de_SP entre_SP ambos_DI0MP0 modos_NCMP000 infeliz_AQ0CS00 me_PP1CS00 veo_VMIP1S0.
+    Pero_CC yo_PP1CSN0 por_SP mejor_AQ0CS00 partido_NCMS000 escojo_VMIP1S0
+    de_SP quien_PR0CS00 no_RN quiero_VMIP1S0 ser_VSN0000 violento_AQ0MS00 empleo_NCMS000
+    que_PR0CN00 de_SP quien_PR0CS00 no_RN me_PP1CS00 quiere_VMIP3S0 vil_AQ0CS00 despojo_NCMS000.
+    
+    Yo_PP1CSN0 adoro_VMIP1S0 a_SP Lisi_NP00000, pero_CC no_RN pretendo_VMIP1S0
+    que_CS Lisi_NP00000 corresponda_VMSP3S0 mi_DP1CSS fineza_NCFS000;
+    pues_CS si_CS juzgo_VMIP1S0 posible_AQ0CS00 su_DP3CSN belleza_NCFS000,
+    a_SP su_DP3CSN decoro_NCMS000 y_CC mi_DP1CSS aprehensión_NCFS000 ofendo_VMIP1S0.
+    No_RN emprender_VMN0000, solamente_RG, es_VSIP3S0 lo_DA00S0 que_PR0CN00 emprendo_VMIP1S0:
+    pues_CS sé_VMIP1S0 que_CS a_SP merecer_VMN0000 tanta_DI0FS0 grandeza_NCFS000
+    ningún_DI0MS0 mérito_NCMS000 basta_VMIP3S0, y_CC es_VSIP3S0 simpleza_NCFS000
+    obrar_VMN0000 contra_SP lo_DA00S0 mismo_AQ0MS00 que_PR0CN00 yo_PP1CSN0 entiendo_VMIP1S0.
+    Como_CS cosa_NCFS000 concibo_VMIP1S0 tan_RG sagrada_AQ0FS00
+    su_DP3CSN beldad_NCFS000 que_PR0CN00 ni_RN quiere_VMIP3S0 mi_DP1CSS osadía_NCFS000
+    a_SP la_DA0FS0 esperanza_NCFS000 dar_VMN0000 ni_CC aun_RG leve_AQ0CS00 entrada_NCFS000:
+    pues_CS cediendo_VMG0000 a_SP la_DA0FS0 suya_AP0FS3N mi_DP1CSS alegría_NCFS000,
+    por_SP no_RN llegar_VMN0000 la_PP3FSA0 a_SP ver_VMN0000 mal_RG empleada_VMP00SF,
+    aun_RG pienso_VMIP1S0 que_CS sintiera_VMSI3S0 ver_VMN0000 la_PP3FSA0 mía_AP0FS1S.
+    
+    En_SP pensar_VMN0000 que_CS me_PP1CS00 quieres_VMIP2S0, Clori_NP00000, he_VAIP1S0 dado_VMP00SM,
+    por_SP lo_DA00S0 mismo_AQ0MS00 que_PR0CN00 yo_PP1CSN0 no_RN te_PP2CS00 quisiera_VMSI3S0;
+    porque_CS solo_AQ0MS00 quien_PR0CS00 no_RN me_PP1CS00 conociera_VMSI3S0,
+    me_PP1CS00 pudiera_VMSI3S0 a_SP mí_PP1CSO0, Clori_NP00000, haber_VAN0000 amado_VMP00SM.
+    En_SP tú_PP2CSN0 no_RN conocer_VMN0000 me_PP1CS00, desdichado_NCMS000
+    por_SP solo_AQ0MS00 esta_DD0FS0 carencia_NCFS000 de_SP antes_RG fuera_RG;
+    mas_CC como_CS yo_PP1CSN0 saber_VMN0000 lo_PP3MSA0 no_RN pudiera_VMSI3S0,
+    tuviera_VMSI3S0 menos_RG mal_RG en_SP lo_DA00S0 ignorado_VMP00SM.
+    Me_PP1CS00 conoces_VMIP2S0, o_CC no_RN me_PP1CS00 has_VAIP2S0 conocido_VMP00SM;
+    si_CS me_P01CS00 conoces_VMIP2S0, suplirás_VMIF2S0 mis_DP1CPS males_NCMP000.
+    Si_CS aquello_PD00S00, negaraste_NCMS000 a_SP lo_DA00S0 entendido_NCMS000;
+    si_CS esto_PD00S00, quedaremos_VMIF1P0 desiguales_AQ0CP00.
+    Pues_CS, ¿cómo_PT00000 me_PP1CS00 aseguras_VMIP2S0 lo_DA00S0 querido_VMP00SM,
+    mi_DP1CSS Clori_NP00000, en_SP dos_Z de_SP Amor_NP00000 carencias_NCFP000 tales_PD0CP00?
+    
+    No_RN es_VSIP3S0 solo_AQ0MS00 por_SP antojo_NCMS000 el_DA0MS0 haber_VAN0000 dado_VMP00SM
+    en_SP querer_VMN0000 te_PP2CS00, mi_DP1CSS bien_NCMS000: pues_CS no_RN pudiera_VMSI3S0
+    alguno_PI0MS00 que_PR0CN00 tus_DP2CPS prendas_NCFP000 conociera_VMSI3S0,
+    negar_VMN0000 te_PP2CS00 que_PR0CN00 mereces_VMIP2S0 ser_VSN0000 amado_VMP00SM.
+    Y_CC si_CS mi_DP1CSS entendimiento_NCMS000 desdichado_AQ0MS00
+    tan_RG incapaz_AQ0CS00 de_SP conocer_VMN0000 te_PP2CS00 fuera_RG,
+    de_SP tan_RG grosero_AQ0MS00 error_NCMS000 aun_RG no_RN pudiera_VMSI3S0
+    hallar_VMN0000 disculpa_NCFS000 en_SP todo_DI0MS0 lo_PP3MSA0 ignorado_VMP00SM.
+    Aquella_PD0FS00 que_PR0CN00 te_PP2CS00 hubiere_VASF1S0 conocido_VMP00SM,
+    o_CC te_PP2CS00 ha_VMIP3S0 de_SP amar_VMN0000, o_CC confesar_VMN0000 los_DA0MP0 males_NCMP000
+    que_PR0CN00 padece_VMIP3S0 su_DP3CSN ingenio_NCMS000 en_SP lo_DA00S0 entendido_VMP00SM,
+    juntando_VMG0000 dos_Z extremos_NCMP000 desiguales_AQ0CP00;
+    con_SP que_PR0CN00 ha_VMIP3S0 de_SP confesar_VMN0000 que_CS eres_VSIP2S0 querido_VMP00SM,
+    para_SP no_RN dar_VMN0000 improporciones_NCFP000 tales_DD0CP0.
+    
+    ¡Oh_I cuán_RG frágil_AQ0CS00 se_P00CN00 muestra_VMIP3S0 el_DA0MS0 ser_NCMS000 humano_AQ0MS00
+    en_SP los_DA0MP0 últimos_AO0MP00 términos_NCMP000 fatales_AQ0CP00,
+    donde_PR00000 sirven_VMIP3P0 aromas_NCMP000 Orientales_AQ0CP00
+    de_SP culto_NCMS000 inútil_AQ0CS00, de_SP resguardo_NCMS000 vano_AQ0MS00!
+    solo_RG a_SP ti_PP2CSO0 respetó_VMIS3S0 el_DA0MS0 poder_NCMS000 tirano_AQ0MS00,
+    ¡oh_I gran_AQ0CS00 Felipe_NP00000! pues_CS con_SP las_DA0FP0 señales_NCFP000
+    que_PR0CN00 ha_VAIP3S0 mostrado_VMP00SM que_CS todos_PI0MP00 son_VSIP3P0 mortales_AQ0CP00,
+    te_PP2CS00 ha_VAIP3S0 acreditado_VMP00SM a_SP ti_PP2CSO0 de_SP Soberano_AQ0MS00.
+    Conoces_VMIP2S0 ser_VSN0000 de_SP tierra_NCFS000 fabricado_VMP00SM
+    este_DD0MS0 cuerpo_NCMS000, y_CC que_PR0CN00 está_VMIP3S0 con_SP mortal_AQ0CS00 guerra_NCFS000
+    el_DA0MS0 bien_NCMS000 de_SP el_DA0MS0 alma_NCFS000 en_SP él_PP3MS00 aprisionado_VMP00SM;
+    y_CC así_RG, subiendo_VMG0000 a_SP el_DA0MS0 bien_NCMS000 que_PR0CN00 el_DA0MS0 Cielo_NCMS000 encierra_VMIP3S0,
+    que_CS en_SP la_DA0FS0 tierra_NCFS000 no_RN cabes_VMIP2S0 has_VAIP2S0 probado_VMP00SM,
+    pues_CS aun_RG tu_DP2CSS cuerpo_NCMS000 dejas_NCFP000 porque_CS es_VSIP3S0 tierra_NCFS000. 
+    
+    Máquinas_NCFP000 primas_AQ0FP00 de_SP su_DP3CSN ingenio_NCMS000 agudo_AQ0MS00
+    a_SP Arquímedes_NP00000 artífice_NCMS000 famoso_AQ0MS00,
+    raro_AQ0MS00 nombre_NCMS000 dieron_VMIS3P0 de_SP ingenioso_AQ0MS00;
+    ¡Tanto_RG el_DA0MS0 afán_NCMS000 y_CC tanto_RG el_DA0MS0 arte_NCCS000 pudo_VMIS3S0!
+     Invención_NCFS0000 rara_AQ0FS00, que_CS en_SP el_DA0MS0 mármol_NCMS000 rudo_AQ0MS00
+    No_RN sin_SP arte_NCCS000 grabó_VMIS3S0, maravilloso_AQ0MS00,
+    De_SP su_DP3CSN mano_NCFS000, su_DP3CSN nombre_NCMS000 prodigioso_AQ0MS00,
+    entretejido_VMP00SM en_SP flores_NCFP000 el_DA0MS0 escudo_NCMS000.
+    ¡Oh_I! Así_RG permita_VMSP3S0 el_DA0MS0 Cielo_NCMS000 que_CS se_P00CN00 entregue_VMSP3S0
+    lince_NCMS000 tal_PD0CS00 mi_DP1CSS atención_NCFS000 en_SP imitar_VMN0000 te_PP2CS00,
+    Y_CC en_SP el_DA0MS0 mar_NCCS000 de_SP la_DA0FS0 ciencia_NCFS000 así_RG se_P00CN00 anegue_VMSP3S0
+    bajel_NCMS000, que_CS a_SP el_DA0MS0 discurrir_VMN0000 por_SP alcanzar_VMN0000 te_PP2CS00
+    Alcance_VMSP3S0 que_CS el_DA0MS0 que_PR0CN00 a_SP ver_VMN0000 la_DA0FS0 hechura_NCFS000 llegue_VMSP3S0,
+    Sepa_VMSP3S0 tu_DP2CSS nombre_NCMS000 de_SP el_DA0MS0 primor_NCMS000 de_SP el_DA0MS0 Arte_NCMS000.
+    
+    ¡Oh_I quién_PT0CS00, amado_VMP00SM Anfriso_NP00000, te_PP2CS00 ciñera_VMSI3S0
+    de_SP el_DA0MS0 Mundo_NCMS000 las_DA0FP0 coronas_NCFP000 poderosas_AQ0FP00!
+    Que_CS a_SP coronar_VMN0000 tus_DP2CPS prendas_NCFP000 generosas_AQ0FP00
+    el_DA0MS0 círculo_NCMS000 de_SP el_DA0MS0 Orbe_NCMS000 corto_AQ0MS00 fuera_RG.
+    ¡Quién_PT0CS00, para_SP eternizar_VMN0000 te_PP2CS00, hacer_VMN0000 supiera_VMSI3S0
+    mágicas_AQ0FP00 confecciones_NCFP000 prodigiosas_AQ0FP00,
+    o_CC tuviera_VMSI3S0 las_DA0FP0 hierbas_NCFP000 milagrosas_AQ0FP00
+    que_PR0CN00 feliz_AQ0CS00 gustó_VMIS3S0 Glauco_NP00000 en_SP la_DA0FS0 ribera_NCFS000!
+    Mas_CC aunque_CC no_RN halla_VMIP3S0 medio_AQ0MS00 mi_DP1CSS cuidado_NCMS000
+    para_SP que_CS goces_NCMP000 de_SP inmortal_AQ0CS00 la_DA0FS0 palma_NCFS000,
+    otro_PI0MS00 más_RG propio_AQ0MS00 mi_DP1CSS cariño_NCMS000 ha_VAIP3S0 hallado_VMP00SM
+    que_CS el_DA0MS0 curso_NCMS000 de_SP tu_DP2CSS vida_NCFS000 tenga_VMSP3S0 en_SP calma_NCFS000;
+    pues_CS juzgo_VMIP1S0 que_CS es_VSIP3S0 el_DA0MS0 más_RG proporcionado_VMP00SM
+    de_SP alargar_VMN0000 una_DI0FS0 vida_NCFS000, dar_VMN0000 un_DI0MS0 alma_NCFS000.
+    
+    El_DA0MS0 que_PR0CN00 hipogrifo_NCMS000 de_SP mejor_AQ0CS00 Rugero_NP00000,
+    ave_NCFS000 de_SP Ganimedes_NP00000 más_RG hermoso_AQ0MS00,
+    pegaso_NCMS000 de_SP Perseo_NP00000 más_RG airoso_AQ0MS00,
+    de_SP más_RG dulce_NCMS000 Arión_NP00000, delfín_NCMS000 ligero_AQ0MS00
+    fue_VSIS3S0, ya_RG sin_SP vida_NCFS000 yace_VMIP3S0 el_DA0MS0 golpe_NCMS000 fiero_AQ0MS00
+    de_SP transformado_VMP00SM Jove_NP00000, que_PR0CN00 celoso_AQ0MS00
+    los_DA0MP0 rayos_NCMP000 disimula_VMIP3S0, belicoso_AQ0MS00,
+    solo_AQ0MS00 en_SP un_DI0MS0 semicírculo_NCMS000 de_SP acero_NCMS000.
+    Rindió_VMIS3S0 el_DA0MS0 fogoso_AQ0MS00 postrimero_AQ0MS00 aliento_NCMS000
+    el_DA0MS0 veloz_AQ0CS00 bruto_AQ0MS00, a_SP impulso_NCMS000 soberano_AQ0MS00;
+    pero_CC aquel_PD0MS00 su_DP3CSN dolor_NCMS000, que_PR0CN00 tuvo_VMIS3S0, siento_VMIP1S0,
+    más_RG de_SP afectivo_AQ0MS00 y_CC menos_RG de_SP inhumano_AQ0MS00:
+    pues_CS fue_VSIS3S0 de_SP vergonzoso_AQ0MS00 sentimiento_NCMS000
+    de_SP ser_VSN0000 bruto_AQ0MS00, rigiendo_VMG0000 le_PP3CSD0 tal_DD0CS0 mano_NCFS000.
+    
+    Vista_VMP00SF tus_DP2CPS hombros_NCMP000 el_DA0MS0 verdor_NCMS000 lozano_AQ0MS00,
+    Joven_NCCS000, con_SP que_CS tu_DP2CSS ciencia_NCFS000 te_PP2CS00 laurea_VMIP3S0;
+    y_CC puesto_VMP00SM en_SP ello_PD00S00 dignamente_RG, sea_VSSP1S0
+    índice_NCMS000 de_SP tus_DP2CPS méritos_NCMP000 ufano_AQ0MS00.
+    Corone_VMSP3S0 tu_DP2CSS discurso_NCMS000 soberano_AQ0MS00
+    la_DA0FS0 que_PR0CN00 blanda_VMSP3S0 tus_DP2CPS sientes_VMIP2S0 lisonjea_VMIP3S0
+    insignia_NCFS000 literaria_AQ0FS00, en_SP quien_PR0CS00 se_P00CN00 emplea_VMIP3S0
+    el_DA0MS0 flamante_AQ0CS00 sepulcro_NCMS000 de_SP un_DI0MS0 gusano_NCMS000.
+    ¡Oh_I qué_DT0CN0 enseñanza_NCFS000 llevan_VMIP3P0 escondida_VMP00SF
+    honrosos_AQ0MP00 los_DA0MP0 halagos_NCMP000 de_SP tu_DP2CSS suerte_NCFS000,
+    donde_PR00000 despierta_VMIP3S0 la_DA0FS0 atención_NCFS000 dormida_VMP00SF!
+    Pues_CS ese_DD0MS0 verde_AQ0CS00 honor_NCMS000, si_CS bien_RG se_P00CN00 advierte_VMIP3S0,
+    mientras_CS más_RG brinda_VMIP3S0 gustos_NCMP000 a_SP la_DA0FS0 vida_NCFS000,
+    más_RG ofrece_VMIP3S0 recuerdos_NCMP000 a_SP la_DA0FS0 muerte_NCFS000.
+    
+    Docto_AQ0MS00 Mansilla_NP00000 no_RN para_SP aplaudir_VMN0000 te_PP2CS00
+    ponderaciones_NCFP000 buscaré_VMIF1S0 de_SP el_DA0MS0 arte_NCCS000
+    retórica_AQ0FS00, que_PR0CN00 fuera_RG limitar_VMN0000 te_VMN0000
+    querer_VMN0000 entre_SP sus_DP3CPN cláusulas_NCFP000 ceñir_VMN0000 te_PP2CS00.
+    solo_RG en_SP mi_DP1CSS intento_NCMS000, cuando_CS llego_VMIP1S0 a_SP oír_VMN0000 te_PP2CS00,
+    alabar_VMN0000 te_PP2CS00 con_SP solo_RG no_RN alabar_VMN0000 te_PP2CS00;
+    pues_CS quien_PR0CS00 mejor_RG llegare_VMSF1S0 a_SP ponderar_VMN0000 te_PP2CS00
+    será_VSIF3S0 el_DA0MS0 que_PR0CN00 no_RN intentare_VMSF1S0 definir_VMN0000 te_PP2CS00.
+    Aún_RG en_SP tu_DP2CSS mismo_AQ0MS00 juicio_NCMS000 tú_PP2CSN0 no_RN cabes_VMIP2S0;
+    ni_CC de_SP tu_DP2CSS ingenio_NCMS000 las_DA0FP0 riquezas_NCFP000 raras_AQ0FP00
+    pudiera_VMSI3S0, de_SP el_DA0MS0 discurso_NCMS000 con_SP los_DA0MP0 graves_AQ0CP00
+    reflejos_NCMP000, conocer_VMN0000 si_CS lo_PP3MSA0 intentaras_VMSI2S0:
+    porque_CS si_CS tú_PP2CSN0 supieras_VMSI2S0 lo_DA00S0 que_PR0CN00 sabes_VMIP2S0,
+    mucho_RG de_SP lo_DA00S0 que_PR0CN00 sabes_VMIP2S0 ignoraras_VMSI2S0.
+    
+    Suspende_VMIP3S0, cantor_NCMS000 Cisne_NCMS000, el_DA0MS0 dulce_AQ0CS00 acento_NCMS000:
+    mira_VMM02S0, por_SP ti_PP2CSO0, a_SP el_DA0MS0 Señor_NP00000 que_CS Delfos_NP00000 mira_VMM02S0,
+    en_SP zampoña_NCFS000 trocar_VMN0000 la_DA0FS0 dulce_AQ0CS00 lira_NCFS000
+    y_CC hacer_VMN0000 a_SP Admito_NP00000 pastoril_AQ0CS00 contento_AQ0MS00.
+    Cuanto_RG cabe_VMIP3S0 suave_AQ0CS00, si_CS violento_AQ0MS00,
+    piedras_NCFP000 movió_VMIS3S0, rindió_VMIS3S0 la_DA0FS0 infernal_AQ0CS00 ira_NCFS000,
+    corrido_VMP00SM de_SP escuchar_VMN0000 te_PP2CS00, se_P00CN00 retira_VMIP3S0;
+    y_CC a_SP el_DA0MS0 mismo_AQ0MS00 Templo_NCMS000 agravia_VMIP3S0 tu_DP2CSS instrumento_NCMS000.
+    Que_CS aunque_CC no_RN llega_VMIP3S0 a_SP sus_DP3CPN columnas_NCFP000 cuanto_PR0MS00
+    edificó_VMIS3S0 la_DA0FS0 antigua_AQ0FS00 Arquitectura_NCFS000,
+    cuando_CS tu_DP2CSS clara_AQ0FS00 voz_NCFS000 sus_DP3CPN piedras_NCFP000 toca_VMIP3S0,
+    nada_PI0CS00 se_P00CN00 vio_VMIS3S0 mayor_AQ0CS00 sino_CC tu_DP2CSS canto_NCMS000;
+    y_CC así-como_CC lo_PP3MSA0 excede_VMIP3S0 tu_DP2CSS dulzura_NCFS000,
+    mientras_CS más_RG lo_PP3MSA0 engrandece_VMIP3S0, más_RG lo_PP3MSA0 apoca_VMIP3S0.
+    
+    ¿Qué_PT00000 importa_VMIP3S0 a_SP el_DA0MS0 Pastor-Sacro_NP00000 que_CS a_SP la_DA0FS0 llama_NCFS000
+    de_SP su_DP3CSN obrar_VMN0000 negar_VMN0000 quiera_VMSP3S0 la_DA0FS0 victoria_NCFS000,
+    si_CS cuando_CS más_RG apaga_VMIP3S0 tanta_DI0FS0 gloria_NCFS000,
+    la_DA0FS0 misma_AQ0FS00 luz_NCFS000 a_SP los_DA0MP0 recuerdos_NCMP000 llama_VMIP3S0?
+    ¿Si_CS en_SP cada_DI0CS0 mármol_NCMS000 mudamente_NCFS000 clama_VMIP3S0
+    de_SP sus_DP3CPN blasones_NCMP000 indeleble_AQ0CS00 historia_NCFS000,
+    porque_CS sirva_VMSP3S0 la_DA0FS0 letra_NCFS000 a_SP su_DP3CSN memoria_NCFS000
+    lo_DA00S0 que_PR0CN00 de_SP piedra_NCFS000 a_SP el_DA0MS0 tiempo_NCMS000 de_SP su_DP3CSN Fama_NCFS000?
+    A_SP la_DA0FS0 sagrada_AQ0FS00 cifra_NCFS000, que_PR0CN00 venera_VMIP3S0
+    el_DA0MS0 discurso_NCMS000 en_SP las_DA0FP0 piedras_NCFP000, comedido_VMP00SM,
+    y_CC en_SP duración_NCFS000 eterna_AQ0FS00 persevera_VMIP3S0,
+    exenta_AQ0FS00 y_CC libre_AQ0CS00 de_SP el_DA0MS0 oscuro_AQ0MS00 olvido_NCMS000,
+    alabar_VMN0000 te_PP2CS00 podrás_VMIF2S0, culta_AQ0FS00 Ribera_NCFS000,
+    que_PR0CN00 solo_RG le_PP3CSD0 construyes_VMIP2S0 el_DA0MS0 sentido_NCMS000.
+    
+    Miró_VMIS3S0 Celia_NP00000 una_DI0FS0 rosa_NCCS000 que_PR0CN00 en_SP el_DA0MS0 prado_NCMS000
+    ostentaba_VMII3S0 feliz_AQ0CS00 la_DA0FS0 pompa_NCFS000 vana_AQ0FS00
+    y_CC con_SP afeites_VMSP2S0 de_SP carmín_NCMS000 y_CC grana_NCFS000
+    bañaba_VMII3S0 alegre_AQ0CS00 el_DA0MS0 rostro_NCMS000 delicado_AQ0MS00;
+    y_CC dijo_VMIS3S0: Goza_VMIP3S0, sin_SP temor_NCMS000 de_SP el_DA0MS0 Hado_NCMS000
+    el_DA0MS0 curso_NCMS000 breve_AQ0CS00 de_SP tu_DP2CSS edad_NCFS000 lozana_AQ0FS00,
+    pues_CS no_RN podrá_VMIF3S0 la_DA0FS0 muerte_NCFS000 de_SP mañana_RG
+    quitar_VMN0000 te_PP2CS00 lo_PP3MSA0 que_PR0CN00 hubieres_VMSF2S0 hoy_RG gozado_VMP00SM;
+    y_CC aunque_CC llega_VMIP3S0 la_DA0FS0 muerte_NCFS000 presurosa_AQ0FS00
+    y_CC tu_DP2CSS fragante_AQ0CS00 vida_NCFS000 se_P00CN00 te_PP2CS00 aleja_VMIP3S0,
+    no_RN sientas_VMIP2S0 el_DA0MS0 morir_VMN0000 tan_RG bella_AQ0FS00 y_CC moza_AQ0FS00:
+    mira_VMM02S0 que_CS la_DA0FS0 experiencia_NCFS000 te_PP2CS00 aconseja_VMIP3S0
+    que_CS es_VSIP3S0 fortuna_NCFS000 morir_VMN0000 te_PP2CS00 siendo_VSG0000 hermosa_AQ0FS00
+    y_CC no_RN ver_VMN0000 el_DA0MS0 ultraje_NCMS000 de_SP ser_VSN0000 vieja_AQ0FS00.
+    
+    Dulce_AQ0CS00, canoro_AQ0MS00 Cisne_NCMS000 Mexicano_AQ0MS00
+    cuya_PR0FS00  voz_NCFS000 si_CS el_DA0MS0 Estigio_NP00000 layo_NCMS000 oyera_VMSI3S0,
+    segunda_AO0FS00 vez_NCFS000 a_SP Eurídice_NP00000 te_PP2CS00 diera_VMSI3S0,
+    y_CC segunda_AO0FS00 el_DA0MS0 Delfín_NP00000 te_PP2CS00 fuera_VSSI3S0 humano_AQ0MS00;
+    a_SP quien_PR0CS00 si_CS el_DA0MS0 Teucro_NP00000 muro_NCMS000, si_CS el_DA0MS0 Tebano_NP00000,
+    el_DA0MS0 ser_NCMS000 en_SP dulces_NCMP000, cláusulas_NCFP000 debiera_VMSI3S0,
+    ni_CC a_SP aquél_PD0MS00 el_DA0MS0 Griego_AQ0MS00 incendio_NCMS000 consumiera_VMSI3S0,
+    ni_CC a_SP éste_PD0MS00 postrara_VMSI3S0 Alejandrina_AQ0FS00 mano_NCFS000:
+    no_RN el_DA0MS0 sacro_AQ0MS00 numen_NCMS000 con_SP mi_DP1CSS voz_NCFS000 ofendo_VMIP1S0,
+    ni_CC a_SP el_DA0MS0 que_PR0CN00 pulsa_VMIP3S0 divino_AQ0MS00 plectro_NCMS000 de_SP oro_NCMS000
+    agreste_AQ0CS00 avena_VMIP3S0 concordar_VMN0000 pretendo_VMIP1S0;
+    pues_CS por_SP no_RN profanar_VMN0000 tanto_RG decoro_NCMS000,
+    mi_DP1CSS entendimiento_NCMS000 admira_VMIP3S0 lo_DA00S0 que_PR0CN00 entiendo_VMIP1S0
+    y_CC mi_DP1CSS fe_NCFS000 reverencia_VMIP3S0 lo_DA00S0 que_PR0CN00 ignoro_VMIP1S0.
+    
+    Si_CS un_DI0MS0 pincel_NCMS000, aunque_CC grande_AQ0CS00, a_SP el_DA0MS0 fin_NCMS000 humano_AQ0MS00,
+    pudo_VMIS3S0 hacer_VMN0000 tan_RG bellísima_AQSFS00 Pintura_NCFS000,
+    que_PR0CN00 aun_RG vista_NCFS000 perspicaz_AQ0CS00 en_SP vano_NCMS000 apura_VMIP3S0
+    tus_DP2CPS luces_NCFP000, o_CC admirada_VMP00SF, si_CS no_RN en_SP vano_NCMS000.
+    El_DA0MS0 Autor_NCMS000 de_SP tu_DP2CSS Alma_NCFS000 soberano_AQ0MS00,
+    proporcionado_VMP00SM campo_NCMS000 a_SP más_RG hechura_NCFS000,
+    ¿qué_DT0CN0 gracia_NCFS000 pintaría_VMIC3S0, qué_DT0CN0 hermosura_NCFS000,
+    el_DA0MS0 Lienzo_NCMS000 más_RG capaz_AQ0CS00, mejor_RG la_DA0FS0 Mano_NCFS000?
+    ¿Si_CS estará_VMIF3S0 ya_RG en_SP la_DA0FS0 Esfera_NCFS000 luminoso_AQ0MS00
+    el_DA0MS0 pincel_NCMS000, de_SP Lucero_NCMS000 graduado_VMP00SM,
+    porque_CS te_PP2CS00 amaneció_VMIS3S0 Divina_AQ0FS00 Aurora_NCFS000
+    ¡Y_CC cómo_PT00000 que_PR0CN00 lo_PP3MSA0 está_VMIP3S0! Pero_CC, quejoso_AQ0MS00,
+    dice_VMIP3S0 que_CS ni_RN aun_RG la_DA0FS0 costa_NCFS000 le_PP3CSD0 ha_VAIP3S0 pagado_VMP00SM:
+    que_CS gastó_VMIS3S0 en_SP ti_PP2CSO0 más_RG luz_NCFS000 que_PR0CN00 tiene_VMIP3S0 ahora_RG.
+    
+    Nace_VMIP3S0 de_SP la_DA0FS0 escarcha_NCFS000 fresca_AQ0FS00 rosa_NCCS000
+    dulce_AQ0CS00 abeja_NCFS000, y_CC apenas_RG aparece_VMIP3S0,
+    cuando_CS a_SP su_DP3CSN regio_AQ0MS00 natalicio_NCMS000 ofrece_VMIP3S0
+    tutela_NCFS000 verde_AQ0CS00, palma_NCFS000 victoriosa_AQ0FS00.
+    Así_RG Rosa_NP00000, María_NP00000, más_RG hermosa_AQ0FS00,
+    concibe_VMIP3S0 a_SP Dios_NP00000, y_CC el_DA0MS0 vientre_NCMS000 apenas_RG crece_VMIP3S0,
+    cuando_CS es_VSIP3S0, de_SP la_DA0FS0 sospecha_NCFS000 que_PR0CN00 padece_VMIP3S0,
+    el_DA0MS0 Espíritu-Santo_NP00000 Palma_NCFS000 umbrosa_AQ0FS00.
+    Pero_CC cuando_CS el_DA0MS0 tirano_NCMS000, por_SP prender_VMN0000 lo_PP3MSA0,
+    tanta_DI0FS0 inocente_AQ0CS00 turba_NCFS000 herir_VMN0000 pretende_VMIP3S0,
+    solo_RG Vos_PP2CS0P, ¡oh_I José_NP00000!, vais_VMIP2P0 a_SP esconder_VMN0000 lo_PP3MSA0:
+    para_SP que_CS en_SP Vos_PP2CS0P admire_VMSP3S0, quien_PR0CS00 lo_PP3MSA0 entiende_VMIP3S0,
+    que_CS Vos_PP2CS0P bastáis_VMIP2P0 de_SP el_DA0MS0 mundo_NCMS000 a_SP defender_VMN0000 lo_PP3MSA0,
+    y_CC que_CS de_SP Vos_PP2CS0P, Dios_NP00000 solo_RG le_PP3CSD0 defiende_VMIP3S0.
+    
+    De_SP un_DI0MS0 funesto_AQ0MS00 moral_NCFS000 la_DA0FS0 negra_AQ0FS00 sombra_NCFS000,
+    de_SP horrores_NCMP000 mil_Z y_CC confusiones_NCFP000 llena_AQ0FS00,
+    en_SP cuyo_PR0MS00 hueco_NCMS000 tronco_VMIP1S0 aun_RG hoy_RG resuena_VMIP3S0
+    el_DA0MS0 eco_NCMS000 que_CS doliente_NCCS000 a_SP Tisbe_NP00000 nombra_VMIP3S0.
+    Cubrió_VMIS3S0 la_DA0FS0 verde_NCMS000 matizada_VMP00SF alfombra_NCFS000
+    en_SP que_CS Píramo_NP00000 amante_NCCS000 abrió_VMIS3S0 la_DA0FS0 vena_NCFS000
+    de_SP el_DA0MS0 corazón_NCMS000, y_CC Tisbe_NP00000 de_SP su_DP3CSN pena_NCFS000
+    dio_VMIS3S0 la_DA0FS0 señal_NCFS000, que_PR0CN00 aun_RG hoy_RG el_DA0MS0 mundo_NCMS000 asombra_VMIP3S0.
+    Mas_CC viendo_VMG0000 de_SP el_DA0MS0 amor_NCMS000 tanto_RG despecho_NCMS000,
+    la_DA0FS0 muerte_NCFS000, entonces_RG de_SP ellos_PP3MP00 lastimada_VMP00SF,
+    sus_DP3CPN dos_Z pechos_NCMP000 juntó_VMIS3S0 con_SP lazo_NCMS000 estrecho_AQ0MS00.
+    Mas_CC ¡ay_I de_SP la_DA0FS0 infeliz_AQ0CS00 y_CC desdichada_AQ0FS00,
+    que_PR0CN00 a_SP su_DP3CSN Píramo_NP00000 dar_VMN0000 no_RN puede_VMIP3S0 el_DA0MS0 pecho_NCMS000
+    ni_CC aun_RG por_SP los_DA0MP0 duros_AQ0MP00 filos_NCMP000 de_SP su_DP3CSN espada_NCFS000!
+    
+    ¿Quién_PT0CS00, que_CS regale_VMSP3S0 visto_VMP00SM y_CC o_CC comido_VMP00SM,
+    el_DA0MS0 León_NP00000, ya_RG panal_NCMS000, imaginara_VMSI3S0?
+    ¿Quién_PT0CS00, que_CS dulzura_NCFS000 tanta_PI0FS00 se_P00CN00 estorbara_VMSI3S0
+    lo_DA00S0 muy_RG sabroso_AQ0MS00, por_SP lo_DA00S0 muy_RG florido_AQ0MS00?
+    ¡Oh_I Juan_NP00000, come_VMIP3S0 y_CC no_RN mires_NCMP000, que_PR0CN00 a_SP un_DI0MS0 sentido_NCMS000
+    le_PP3CSD0 das_VMIP2S0 celos_NCMP000 con_SP otro_PI0MS00! ¿Y_CC quién_PT0CS00 pensara_VMSI3S0
+    que_CS el_DA0MS0 Fruto_NCFS000 de_SP la_DA0FS0 Vida_NCFS000 le_PP3CSD0 quitara_VMSI3S0
+    lo_DA00S0 hermoso_AQ0MS00, la_DA0FS0 razón_NCFS000 de_SP apetecido_VMP00SM?
+    Manjar_NCMS000 de_SP niños_NCMP000 es_VSIP3S0 el_DA0MS0 Sacramento_NP00000,
+    y_CC Dios_NP00000, a_SP ojos_NCMP000 cerrados_VMP00PM, nos_PP1CP00 provoca_VMIP3S0
+    a_SP merecer_VMN0000, comiendo_VMG0000, su_DP3CSN alimento_NCMS000.
+    solo_RG a_SP San-Juan_NP00000 que_PR0CS00 con_SP la_DA0FS0 vista_NCFS000 toca_VMIP3S0
+    a_SP Cristo_NP00000 en_SP él_PP3MS00, fue_VSIS3S0 más_RG merecimiento_NCMS000
+    abrir_VMN0000 los_DA0MP0 ojos_NCMP000 y_CC cerrar_VMN0000 la_DA0FS0 boca_NCFS000.
+    
+    Vuestra_DP2FSP edad_NCFS000, gran_AQ0CS00 Señor_NP00000, en_SP tanto_RG exceda_VMSP3S0
+    a_SP la_DA0FS0 capacidad_NCFS000 que_PR0CN00 abraza_VMIP3S0 el_DA0MS0 cero_Z;
+    que_CS la_DA0FS0 combinatoria_NCFS000 de_SP Kirkero_NP00000
+    multiplicar_VMN0000 su_DP3CSN cantidad_NCFS000 no_RN pueda_VMSP3S0.
+    de_SP el_DA0MS0 giro_NCMS000 hermoso_AQ0MS00 la_DA0FS0 luciente_AQ0CS00 Rueda_NP00000,
+    que_CS el_DA0MS0 uno_PI0MS00 trastornó_VMIS3S0, y_CC otro_DI0MS0 lucero_NCMS000;
+    y_CC que_CS el_DA0MS0 fin_NCMS000 fue_VSIS3S0 de_SP el_DA0MS0 círculo_NCMS000 primero_AO0MS00,
+    principio_NCMS000 de_SP feliz_AQ0CS00 a_SP el_DA0MS0 que_PR0CN00 suceda_VMSP3S0.
+    Vivid_VMM02P0, porque_CS entre_SP propios_AQ0MP00, y_CC entre_SP extraños_NCMP000,
+    de_SP mi_DP1CSS plectro_NCMS000 las_DA0FP0 claras_AQ0FP00 armonías_NCFP000,
+    celebren_VMSP3P0 vuestros_DP2MPP hechos_NCMP000, sin_SP engaños_NCMP000;
+    y_CC uniendo_VMG0000 duraciones_NCFP000 a_SP alegrías_NCFP000,
+    a_SP las_DA0FP0 glorias_NCFP000 compitan_VMSP3P0 vuestros_DP2MPP años_NCMP000
+    y_CC las_DA0FP0 glorias_NCFP000 excedan_VMSP3P0 a_SP los_DA0MP0 días_NCMP000.
+    
+    Dices_VMIP2S0, que_CS no_RN te_PP2CS00 acuerdas_VMIP2S0, Clori_NP00000, y_CC mientes_NCFP000
+    en_SP decir_VMN0000, que_CS te_PP2CS00 olvidas_VMIP2S0 de_SP olvidar_VMN0000 te_PP2CS00;
+    pues_CS das_VMIP2S0 ya_RG en_SP tu_DP2CSS memoria_NCFS000 alguna_DI0FS0 parte_NCCS000,
+    en_SP que_PR0CN00, por_SP olvidado_VMP00SM, me_PP1CS00 presentes_AQ0CP00.
+    Si_CS son_VSIP3P0 tus_DP2CPS pensamientos_NCMP000 diferentes_AQ0CP00
+    de_SP los_DA0MP0 de_SP Albiro_NP00000, dejarás_VMIF2S0 tratar_VMN0000 me_PP1CS00;
+    pues_CS tú_PP2CSN0 misma_AQ0FS00 pretendes_VMIP2S0 agraviar_VMN0000 te_PP2CS00,
+    con_SP querer_VMN0000 persuadir_VMN0000, lo_DA00S0 que_PR0CN00 no_RN sientes_VMIP2S0.
+    Niegas_VMIP2S0 me_PP1CS00 ser_VSN0000 capaz_AQ0CS00 de_SP ser_VSN0000 querido_VMP00SM,
+    y_CC tú_PP2CSN0 misma_AQ0FS00 concedes_VMIP2S0 esta_DD0FS0 gloria_NCFS000,
+    con_SP que_CS en_SP tu_DP2CSS contra_SP tu_DP2CSS argumento_NCMS000 ha_VAIP3S0 sido_VSP00SM.
+    Pues_CS si_CS para_SP alcanzar_VMN0000 tanta_DI0FS0 victoria_NCFS000,
+    te_PP2CS00 acuerdas_VMIP2S0 de_SP olvidar_VMN0000 te_PP2CS00 de_SP el_DA0MS0 olvido_NCMS000,
+    ya_RG no_RN das_VMIP2S0 negación_NCFS000 a_SP tu_DP2CSS memoria_NCFS000.
+    
+    Altísimo-Señor-Monarca-Hispano_NP00000
+    que_PR0CN00 a_SP Dios_NP00000, entre_SP accidentes_NCMP000 escondido_VMP00SM,
+    cuando_CS queréis_VMIP2P0 mostrar_VMN0000 os_PP2CP00 más_RG rendido_VMP00SM,
+    es_VSIP3S0 cuando_CS os_PP2CP00 ostentáis_VMIP2P0 más_RG soberano_AQ0MS00.
+    Que_CS esa_DD0FS0 sección_NCFS000 Señor_NP00000, que_PR0CN00 a_SP el_DA0MS0 Luterano_NCMS000
+    asombró_VMIS3S0 en_SP Carlos-Quinto_NP00000 esclarecido_VMP00SM,
+    y_CC esa_PD0FS00, por_SP quien_PR0CS00 el_DA0MS0 gran_AQ0CS00 Rodolfo_NP00000 vio_VMIS3S0
+    de_SP el_DA0MS0 mando_NCMS000 a_SP el_DA0MS0 Cetro_NCMS000 en_SP su_DP3CSN piadosa_AQ0FS00 mano_NCFS000.
+    Aunque_CC aplaudida_VMP00SF en_SP el_DA0MS0 Hispano_AQ0MS00 suelo_NCMS000
+    ha_VAIP3S0 sido_VSP00SM, con_SP Católica_AQ0FS00 alegría_NCFS000,
+    no_RN causa_VMIP3S0 admiración_NCFS000 a_SP mi_DP1CSS desvelo_NCMS000.
+    Quede_VMSP3S0 admirado_VMP00SM aquel_DD0MS0, que_PR0CN00 desconfía_VMIP3S0,
+    y_CC de_SP vuestra_DP2FSP Piedad_NCFS000, Virtud_NCFS000, y_CC Celo_NCMS000,
+    esa_DD0FS0, y_CC más_RG Religión_NCFS000, no_RN suponía_VMII3S0.
+    
+    Firma_VMIP3S0 Pilatos_NP00000 la_DA0FS0 que_PR0CN00 juzga_VMIP3S0 ajena_AQ0FS00
+    sentencia_NCFS000, y_CC es_VSIP3S0 la_DA0FS0 suya_AP0FS3N ¡O_CC caso_NCMS000 fuerte_AQ0CS00!
+    quien_PR0CS00 creerá_VMIF3S0, que_CS firmando_VMG0000 ajena_AQ0FS00 muerte_NCFS000,
+    el_DA0MS0 mismo_AQ0MS00 juez_NCCS000 en_SP ella_PP3FS00 se_P00CN00 condena_VMIP3S0.
+    La_DA0FS0 ambición_NCFS000 de_SP sí_RG, tanto_RG le_PP3CSD0 enajena_VMIP3S0,
+    que_CS con_SP el_DA0MS0 vil_AQ0CS00 temor_NCMS000 ciego_AQ0MS00 no_RN advierte_VMIP3S0,
+    que_CS carga_NCFS000 sobre_SP sí_RG la_DA0FS0 infausta_AQ0FS00 suerte_NCFS000,
+    quien_PR0CS00 a_SP el_DA0MS0 justo_AQ0MS00 sentencia_NCFS000 a_SP injusta_AQ0FS00 pena_NCFS000.
+    Jueces_NCMP000 de_SP el_DA0MS0 mundo_NCMS000, detened_VMM02P0 la_DA0FS0 mano_NCFS000
+    aun_RG no_RN firméis_VMSP2P0 mirad_VMM02P0 si_CS son_VSIP3P0 violencias_NCFP000
+    las_DA0FP0 que_PR0CN00 os_PP2CP00 pueden_VMIP3P0 mover_VMN0000 de_SP odio_NCMS000 inhumano_AQ0MS00.
+    Examinar_VMN0000 primero_RG las_DA0FP0 conciencias_NCFP000,
+    mirad_VMM02P0 no_RN haga_VMSP3S0 el_DA0MS0 juez_NCCS000 recto_AQ0MS00, y_CC soberano_AQ0MS00,
+    que_CS en_SP la_DA0FS0 ajena_AQ0FS00 firméis_VMSP2P0 vuestra_DP2FSP sentencia_NCFS000.
+    
+    Ves_NCFP000 caminante_NCCS000 en_SP esta_DD0FS0 triste_AQ0CS00 Pira_NCFS000,
+    la_DA0FS0 potencia_NCFS000 de_SP Jove_NP00000 está_VMIP3S0 postrada_VMP00SF;
+    aquí_RG Marte_NP00000 rindió_VMIS3S0 la_DA0FS0 fuerte_AQ0CS00 espada_NCFS000,
+    aquí_RG Apolo_NP00000 rompió_VMIS3S0 la_DA0FS0 dulce_NCMS000 Lira_NCFS000.
+    Aquí_RG Minerva_NP00000 triste_AQ0CS00 se_P00CN00 retira_VMIP3S0,
+    y_CC la_DA0FS0 luz_NCFS000 de_SP los_DA0MP0 Astros_NCMP000 eclipsada_VMP00SF
+    todo_PI0MS00 está_VMIP3S0 en_SP la_DA0FS0 ceniza_NCFS000 venerada_VMP00SF,
+    de_SP el_DA0MS0 Excelso_AQ0MS00 Color_NCMS000 que_PR0CN00 aquí_RG se_P00CN00 mira_VMM02S0.
+    Tanto_RG pudo_VMIS3S0 la_DA0FS0 fama_NCFS000 encarecer_VMN0000 lo_PP3MSA0,
+    y_CC tanto_RG las_DA0FP0 noticias_NCFP000 sublimar_VMN0000 lo_PP3MSA0,
+    que_CS sin_SP haber_VAN0000 llegado_VMP00SM a_SP conocer_VMN0000 lo_PP3MSA0,
+    llevó_VMIS3S0 con_SP tanto_DI0MS0 extremo_NCMS000 el_DA0MS0 Reino_NCMS000 a_SP amar_VMN0000 lo_PP3MSA0,
+    que_CS muchos_DI0MP0 ojos_NCMP000 no_RN pudieron_VMIS3P0 ver_VMN0000 lo_PP3MSA0,
+    mas_CC ninguno_PI0MS00 pudieron_VMIS3P0 no_RN llorar_VMN0000 lo_PP3MSA0.
+    
+    Detén_VMM02S0 el_DA0MS0 paso_NCMS000, caminante_NCCS000, advierte_VMIP3S0,
+    que_CS aun_RG esta_DD0FS0 losa_NCFS000 guarda_VMIP3S0 enternecida_VMP00SF,
+    con_SP triunfos_NCMP000 de_SP su_DP3CSN diestra_NCFS000 no_RN vencida_VMP00SF,
+    a_SP el_DA0MS0 Capitán_NCMS000 más_RG valeroso_AQ0MS00, y_CC fuerte_AQ0CS00.
+    a_SP el_DA0MS0 Duque-de-Veragua_NP00000 o_CC triste_AQ0CS00 suerte_NCFS000!
+    que_CS nos_PP1CP00 dio_VMIS3S0 en_SP su_DP3CSN noticia_NCFS000 esclarecida_VMP00SF,
+    en_SP relación_NCFS000, los_DA0MP0 bienes_NCMP000 de_SP su_DP3CSN vida_NCFS000,
+    y_CC en_SP posesión_NCFS000, los_DA0MP0 males_NCMP000 de_SP su_DP3CSN muerte_NCFS000.
+    No_RN es_VSIP3S0 muerto_VMP00SM el_DA0MS0 Duque_NCMS000, aunque_CC su_DP3CSN cuerpo_NCMS000 abrace_VMSP3S0,
+    la_DA0FS0 losa_NCFS000, que_PR0CN00 piadosa_AQ0FS00 le_PP3CSD0 recibe_VMIP3S0,
+    pues_CS porque_CS a_SP su_DP3CSN vivir_VMN0000 el_DA0MS0 culto_AQ0MS00 enlace_NCMS000.
+    Aunque_CC el_DA0MS0 mármol_NCMS000 su_DP3CSN muerte_NCFS000 sobrevive_VMIP3S0,
+    en_SP las_DA0FP0 piedras_NCFP000 verás_VMIF2S0 el_DA0MS0 «aquí_RG yace_VMIP3S0»,
+    más_RG en_SP los_DA0MP0 corazones_NCMP000, «aquí_RG vive_VMIP3S0».
+    
+    Verde_AQ0CS00 embeleso_NCMS000 de_SP la_DA0FS0 vida_NCFS000 humana_AQ0FS00,
+    loca_AQ0FS00 Esperanza_NCFS000, frenesí_NCMS000 dorado_VMP00SM,
+    sueño_NCMS000 de_SP los_DA0MP0 despiertos_AQ0MP00 intrincado_VMP00SM,
+    como_CS de_SP sueños_NCMP000, de_SP tesoros_NCMP000 vana_AQ0FS00;
+    alma_NCFS000 de_SP el_DA0MS0 mundo_NCMS000, senectud_NCFS000 lozana_AQ0FS00,
+    decrépito_AQ0MS00 verdor_NCMS000 imaginado_VMP00SM;
+    el_DA0MS0 hoy_RG de_SP los_DA0MP0 dichosos_AQ0MP00 esperado_VMP00SM
+    y_CC de_SP los_DA0MP0 desdichados_NCMP000 el_DA0MS0 mañana_NCCS000:
+    sigan_VMSP3P0 tu_DP2CSS sombra_NCFS000 en-busca-de_SP tu_DP2CSS día_NCMS000
+    los_DA0MP0 que_PR0CN00, con_SP verdes_AQ0CP00 vidrios_NCMP000 por_SP antojos_NCMP000,
+    todo_PI0MS00 lo_PP3MSA0 ven_VMIP3P0 pintado_VMP00SM a_SP su_DP3CSN deseo_NCMS000;
+    que_CS yo_PP1CSN0, más_RG cuerda_AQ0FS00 en_SP la_DA0FS0 fortuna_NCFS000 mía_AP0FS1S,
+    tengo_VMIP1S0 en_SP entrambas_NCFP000 manos_NCFP000 ambos_DI0MP0 ojos_NCMP000
+    y_CC solamente_RG lo_DA00S0 que_PR0CN00 toco_VMIP1S0 veo_VMIP1S0.
+    
+    Moriste_VMIS2S0 Duque-Excelso_NP00000 en_SP fin_NCMS000 moriste_VMIS2S0,
+    Sol_NCMS000 de_SP Veragua_NP00000 claro_AQ0MS00, y_CC refulgente_AQ0CS00,
+    que_PR0CN00 apenas_RG ilustrabas_VMII2S0 el_DA0MS0 Oriente_NP00000,
+    cuando_CS en_SP fatal_AQ0CS00 Ocaso_NCMS000 te_PP2CS00 pusiste_VMIS2S0.
+    Tú_PP2CSN0 que_PR0CN00 por_SP tantas_DI0FP0 veces_NCFP000 te_PP2CS00 ceñiste_VMIS2S0,
+    a_SP el_DA0MS0 desdén_NCMS000 vencedor_NCMS000 de_SP el_DA0MS0 Sol_NCMS000 ardiente_AQ0CS00,
+    apareciste_VMIS2S0 exhalación_NCFS000 luciente_AQ0CS00,
+    llegaste_VMIS2S0 aplauso_NCMS000, ejemplo_NCMS000 feneciste_VMIS2S0.
+    Moriste_VMIS2S0 en_SP fin_NCMS000, pero_CC mostraste_VMIS2S0 osado_VMP00SM
+    el_DA0MS0 valor_NCMS000 de_SP tu_DP2CSS pecho_NCMS000 no_RN vencido_VMP00SM,
+    de_SP la_DA0FS0 propia_AQ0FS00 Nación_NCFS000 tan_RG venerado_VMP00SM.
+    De_SP las_DA0FP0 contrarias_AQ0FP00 armas_NCFP000 tan_RG temido_VMP00SM,
+    moriste_VMIS2S0 de_SP improviso_NCMS000, que_PR0CN00 aun_RG el_DA0MS0 Hado_NCMS000,
+    no_RN osará_VMIF3S0 acometer_VMN0000 te_PP2CS00 prevenido_VMP00SM.
+    
+    Mas_CC ya_RG el_DA0MS0 dolor_NCMS000 me_PP1CS00 vence_VMIP3S0. Ya_RG, ya_RG llego_VMIP1S0,
+    a_SP el_DA0MS0 término_NCMS000 fatal_AQ0CS00 por_SP mi_DP1CSS querida_NCFS000:
+    que_CS es_VSIP3S0 poca_DI0FS0 la_DA0FS0 materia_NCFS000 de_SP una_DI0FS0 vida_NCFS000
+    para_SP la_DA0FS0 forma_NCFS000 de_SP tan_RG grande_AQ0CS00 fuego_NCMS000.
+    Ya_RG licencia_NCFS000 a_SP la_DA0FS0 muerte_NCFS000 doy_VMIP1S0: ya_RG entrego_VMIP1S0
+    el_DA0MS0 alma_NCFS000, a_SP que_CS de_SP el_DA0MS0 cuerpo_NCMS000 la_PP3FSA0 divida_VMSP3S0,
+    auque_NCMS000 en_SP ella_PP3FS00 y_CC en_SP él_PP3MS00 quedará_VMIF3S0 asida_VMP00SF
+    mi_DP1CSS deidad_NCFS000, que_PR0CN00 las_PP3FPA0 vuelva_VMSP3S0 a_SP reunir_VMN0000 luego_RG.
+    Sed_NCFS000 tengo_VMIP1S0: que_CS el_DA0MS0 amor_NCMS000 me_PP1CS00 ha_VAIP3S0 abrasado_VMP00SM
+    aun_RG con_SP todo_DI0MS0 el_DA0MS0 dolor_NCMS000 que_PR0CN00 padeciendo_VMG0000
+    estoy_VMIP1S0, mi_DP1CSS corazón_NCMS000 aún_RG no_RN saciado_VMP00SM.
+    ¡Padre_NCMS000! ¿Por_SP qué_PT00000 en_SP un_DI0MS0 trance_NCMS000 tan_RG tremendo_AQ0MS00
+    me_PP1CS00 desamparas_VMIP2S0? Ya_RG está_VMIP3S0 consumado_VMP00SM.
+    ¡En_SP tus_DP2CPS manos_NCFP000 mi_DP1CSS espíritu_NCMS000 encomiendo_VMIP1S0!
+    
+    La_DA0FS0 heroica_AQ0FS00 esposa_NCFS000 de_SP Pompeyo_NP00000, altiva_AQ0FS00,
+    a_SP el_DA0MS0 ver_VMN0000 su_DP3CSN vestidura_NCFS000 en_SP sangre_NCFS000 roja_AQ0FS00,
+    con_SP generosa_AQ0FS00 cólera_NCCS000 se_P00CN00 enoja_VMIP3S0
+    de_SP sospechar_VMN0000 lo_PP3MSA0 muerto_VMP00SM y_CC estar_VMN0000 viva_AQ0FS00.
+    Rinde_VMIP3S0 la_DA0FS0 vida_NCFS000 en_SP que_CS el_DA0MS0 sosiego_NCMS000 estriba_VMIP3S0
+    de_SP esposo_NCMS000 y_CC padre_NCMS000, y_CC con_SP mortal_AQ0CS00 congoja_NCFS000,
+    la_DA0FS0 concebida_VMP00SF sucesión_NCFS000 arroja_VMIP3S0,
+    y_CC de_SP la_DA0FS0 paz_NCFS000 con_SP ella_PP3FS00 a_SP Roma_NP00000 priva_VMIP3S0.
+    Si_CS el_DA0MS0 infeliz_AQ0CS00 concepto_NCMS000 que_PR0CN00 tenía_VMII3S0
+    en_SP las_DA0FP0 entrañas_NCFP000 Julia_NP00000, no_RN abortara_VMSI3S0,
+    la_DA0FS0 muerte_NCFS000 de_SP Pompeyo_NP00000 excusaría_VMIC3S0.
+    ¡Qué_DE0CN0 tirana_AQ0FS00 fortuna_NCFS000! ¡Quién_PT0CS00 pensara_VMSI3S0,
+    que_CS con_SP el_DA0MS0 mismo_AQ0MS00 amor_NCMS000 que_PR0CN00 la_PP3FSA0 temía_VMII3S0,
+    con_SP ese_DD0MS0 mismo_AQ0MS00 amor_NCMS000 se_P00CN00 la_PP3FSA0 causara_VMSI3S0!
+    
+    Si_CS de_SP Carlos_NP00000 la_DA0FS0 garra_NCFS000 y_CC bizarría_NCFS000
+    pudo_VMIS3S0 por_SP sí_RG mover_VMN0000 a_SP mi_DP1CSS cuidado_NCMS000,
+    ¿cómo_PT00000 parecerá_VMIF3S0, siendo_VSG0000 envidiado_VMP00SM,
+    lo_DA00S0 que_PR0CN00 solo_RG por_SP sí_PP3CNO0 bien_RG parecía_VMII3S0?
+    Si_CS sin_SP triunfo_NCMS000 rendir_VMN0000 le_PP3CSD0 pretendía_VMII3S0,
+    sabiendo_VMG0000 que_CS ya_RG vive_VMIP3S0 enamorado_VMP00SM,
+    ¿qué_DE0CN0 victoria_NCFS000 será_VSIF3S0 ver_VMN0000 le_PP3CSD0 apartado_NCMS000
+    de_SP quien_PR0CS00 antes_RG por_SP suyo_AP0MS3N le_PP3CSD0 tenía_VMII3S0?
+    Pues_CS perdone_VMSP3S0 don-Juan_NP00000 que_CS aunque_CC yo_PP1CSN0 quiera_VMSP3S0
+    pagar_VMN0000 su_DP3CSN amor_NCMS000, que_PR0CN00 a_SP olvido_NCMS000 ya_RG condeno_VMIP1S0,
+    ¿cómo_PT00000 podré_VMIF1S0 si_CS ya_RG en_SP mi_DP1CSS pena_NCFS000 fiera_AQ0FS00
+    introducen_VMIP3P0 los_DA0MP0 celos_NCMP000 su_DP3CSN veneno_NCMS000?
+    Que_CS es_VSIP3S0 Carlos_NP00000 más_RG galán_NCMS000; y_CC aunque_CC no_RN fuera_VSSI3S0,
+    tiene_VMIP3S0 de_SP más_RG galán_NCMS000 el_DA0MS0 ser_VSN0000 ajeno_AQ0MS00.
+    
+    Esta_DD0FS0 tarde_NCFS000, mi_DP1CSS bien_NCMS000, cuando_CS te_PP2CS00 hablaba_VMII3S0,
+    como_CS en_SP tu_DP2CSS rostro_NCMS000 y_CC tus_DP2CPS acciones_NCFP000 vía_NCFS000
+    que_PR0CN00 con_SP palabras_NCFP000 no_RN te_PP2CS00 persuadía_VMII3S0,
+    que_CS el_DA0MS0 corazón_NCMS000 me_PP1CS00 vieses_VMSI2S0 deseaba_VMII3S0;
+    y_CC Amor_NP00000, que_CS mis_DP1CPS intentos_NCMP000 ayudaba_VMII3S0,
+    venció_VMIS3S0 lo_DA00S0 que_PR0CN00 imposible_AQ0CS00 parecía_VMII3S0:
+    pues_CS entre_SP el_DA0MS0 llanto_NCMS000, que_CS el_DA0MS0 dolor_NCMS000 vertía_VMII3S0,
+    el_DA0MS0 corazón_NCMS000 deshecho_VMP00SM destilaba_VMII3S0.
+    Baste_VMSP3S0 ya_RG de_SP rigores_NCMP000, mi_DP1CSS bien_NCMS000, baste_VMSP3S0;
+    no_RN te_PP2CS00 atormente_VMSP3S0 más_RG celos_NCMP000 tiranos_AQ0MP00,
+    ni_CC el_DA0MS0 vil_AQ0CS00 recelo_NCMS000 tu_DP2CSS quietud_NCFS000 contraste_NCMS000
+    con_SP sombras_NCFP000 necias_AQ0FP00, con_SP indicios_NCMP000 vanos_AQ0MP00,
+    pues_CS ya_RG en_SP líquido_AQ0MS00 humor_NCMS000 viste_VMIS2S0 y_CC tocaste_VMIS2S0
+    mi_DP1CSS corazón_NCMS000 deshecho_VMP00SM entre_SP tus_DP2CPS manos_NCFP000.
+    
+    Detente_NCMS000, sombra_NCFS000 de_SP mi_DP1CSS bien_RG esquivo_AQ0MS00,
+    imagen_NCFS000 de_SP el_DA0MS0 hechizo_NCMS000 que_PR0CN00 más_RG quiero_VMIP1S0,
+    bella_AQ0FS00 ilusión_NCFS000 por_SP quien_PR0CS00 alegre_AQ0CS00 muero_VMIP1S0,
+    dulce_AQ0CS00 ficción_NCFS000 por_SP quien_PR0CS00 penosa_AQ0FS00 vivo_AQ0MS00.
+    Si_CS el_DA0MS0 imán_NCMS000 de_SP tus_DP2CPS gracias_NCFP000, atractivo_NCMS000,
+    sirve_VMIP3S0 mi_DP1CSS pecho_NCMS000 de_SP obediente_AQ0CS00 acero_NCMS000,
+    ¿para_SP qué_PT00000 me_PP1CS00 enamoras_VMIP2S0 lisonjero_AQ0MS00
+    si_CS has_VMIP2S0 de_SP burlar_VMN0000 me_PP1CS00 luego_RG fugitivo_AQ0MS00?
+    Mas_CC blasonar_VMN0000 no_RN puedes_VMIP2S0, satisfecho_VMP00SM,
+    de_SP que_PR0CN00 triunfa_VMIP3S0 de_SP mí_PP1CSO0 tu_DP2CSS tiranía_NCFS000:
+    que_CS aunque_CC dejas_NCFP000 burlado_VMP00SM el_DA0MS0 lazo_NCMS000 estrecho_AQ0MS00
+    que_CS tu_DP2CSS forma_NCFS000 fantástica_AQ0FS00 ceñía_VMII3S0,
+    poco_RG importa_VMIP3S0 burlar_VMN0000 brazos_NCMP000 y_CC pechos_NCMP000
+    si_CS te_PP2CS00 labra_VMIP3S0 prisión_NCFS000 mi_DP1CSS fantasía_NCFS000.
+    
+    ¿Qué_DT0CN0 pasión_NCFS000, Porcia_NP00000, qué_DT0CN0 dolor_NCMS000 tan_RG ciego_AQ0MS00
+    te_PP2CS00 obliga_VMIP3S0 a_SP ser_VSN0000 de_SP ti_PP2CSO0 fiera_AQ0FS00 homicida_NCCS000?
+    ¿O_CC en_SP qué_PT00000 te_PP2CS00 ofende_VMIP3S0 tu_DP2CSS inocente_AQ0CS00 vida_NCFS000
+    que_PR0CN00 así_RG le_PP3CSD0 das_VMIP2S0 batalla_NCFS000 a-sangre-y-fuego_RG
+    Si_CS la_DA0FS0 fortuna_NCFS000 airada_VMP00SF a_SP el_DA0MS0 justo_AQ0MS00 ruego_NCMS000
+    de_SP tu_DP2CSS esposo_NCMS000 se_P00CN00 muestra_VMIP3S0 endurecida_VMP00SF,
+    basta_VMIP3S0 le_PP3CSD0 a_SP el_DA0MS0 mal_NCMS000 de_SP ver_VMN0000 su_DP3CSN acción_NCFS000 perdida_VMP00SF,
+    no_RN acabes_VMSP2S0 con_SP tu_DP2CSS vida_NCFS000 su_DP3CSN sosiego_NCMS000.
+    Deja_VMIP3S0 las_DA0FP0 brasas_NCFP000, Porcia_NP00000, que_PR0CN00 mortales_NCCP000
+    impaciente_AQ0CS00 tu_DP2CSS amor_NCMS000 elegir_VMN0000 quiere_VMIP3S0;
+    no_RN a_SP el_DA0MS0 fuego_NCMS000 de_SP tu_DP2CSS amor_NCMS000 el_DA0MS0 fuego_NCMS000 iguales_AQ0CP00;
+    porque_CS si_CS bien_RG de_SP tu_DP2CSS pasión_NCFS000 se_P00CN00 infiere_VMIP3S0,
+    mal_RG morirá_VMIF3S0 a_SP las_DA0FP0 brasas_NCFP000 materiales_AQ0CP00
+    quien_PR0CS00 a_SP las_DA0FP0 llamas_NCFP000 de_SP el_DA0MS0 amor_NCMS000 no_RN muere_VMIP3S0.
+    
+    ¡Oh_I famosa_AQ0FS00 Lucrecia_NP00000, gentil_AQ0CS00 dama_NCFS000,
+    de_SP cuyo_PR0MS00 ensangrentado_VMP00SM noble_AQ0CS00 pecho_NCMS000
+    salió_VMIS3S0 la_DA0FS0 sangre_NCFS000 que_PR0CN00 extinguió_VMIS3S0, a-despecho_RG
+    el_DA0MS0  rey_NCMS000 injusto_AQ0MS00 la_DA0FS0 lasciva_AQ0FS00 llama_NCFS000!
+    ¡Oh_I, con_SP cuánta_DT0FS0 razón_NCFS000 el_DA0MS0 mundo_NCMS000 aclama_VMIP3S0
+    tu_DP2CSS virtud_NCFS000; pues_CS por_SP premio_NCMS000 de_SP tal_DD0CS0 hecho_NCMS000
+    aún_RG es_VSIP3S0 para_SP tus_DP2CPS sienes_NCFP000 cerco_NCMS000 estrecho_AQ0MS00
+    la_DA0FS0 amplísima_AQSFS00 corona_NCFS000 de_SP tu_DP2CSS fama_NCFS000!
+    Pero_CC si_CS el_DA0MS0 modo_NCMS000 de_SP tu_DP2CSS fin_NCMS000 violento_AQ0MS00
+    puedes_VMIP2S0 borrar_VMN0000 de_SP el_DA0MS0 tiempo_NCMS000 y_CC sus_DP3CPN anales_NCMP000,
+    quita_VMIP3S0 la_DA0FS0 punta_NCFS000 de_SP el_DA0MS0 puñal_NCMS000 sangriento_AQ0MS00
+    con_SP que_PR0CN00 pusiste_VMIS2S0 fin_NCMS000 a_SP tantos_DI0MP0 males_NCMP000,
+    que_PR0CN00 es_VSIP3S0 mengua_NCFS000 de_SP tu_DP2CSS honrado_VMP00SM sentimiento_NCMS000
+    decir_VMN0000 que_CS te_PP2CS00 ayudaste_VMIS2S0 de_SP puñales_NCMP000.
