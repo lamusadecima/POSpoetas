@@ -1,4 +1,5 @@
 # POSpoetas
+[![DOI](https://zenodo.org/badge/825429962.svg)](https://zenodo.org/doi/10.5281/zenodo.13354780)
 
 Corpus de poesía de escritoras españolas etiquetado morfológicamente con categorías Part-of-Speech a través de Freeling (Padró, 2011). Se ha realizado una revisión y corrección de errores sistemáticos en el etiquetado.
 
